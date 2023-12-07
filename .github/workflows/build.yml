@@ -1,0 +1,21 @@
+on: [push]
+branches: [main]
+
+jobs:
+  build-resume:
+    runs-on: ubuntu-latest
+    name: Create document
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v1
+    - name: Compile LaTeX document
+      uses: xu-cheng/latex-action@v3
+      with:
+        root_file: main.tex
+        working_directory: src
+        continue_on_error: true
+    - name: Store pdf
+      uses: actions/upload-artifact@v2
+      with:
+        name: file.pdf
+        path: file.pdf
