@@ -19,5 +19,5 @@ jobs:
     - name: Store pdf
       uses: actions/upload-artifact@v2
       with:
-        name: file.pdf
-        path: file.pdf
+        name: publications.pdf
+        path: main.pdf
