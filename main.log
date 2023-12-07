@@ -1,0 +1,1482 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=latex 2023.12.1)  7 DEC 2023 17:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(/opt/texlive/texdir/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/opt/texlive/texdir/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+))
+(/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
+
+(/opt/texlive/texdir/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/opt/texlive/texdir/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+))
+(/opt/texlive/texdir/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count194
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+)
+\@linkdim=\dimen141
+\Hy@linkcounter=\count196
+\Hy@pagecounter=\count197
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count198
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4181.
+Package hyperref Info: Link nesting OFF on input line 4186.
+Package hyperref Info: Hyper index ON on input line 4189.
+Package hyperref Info: Plain pages OFF on input line 4196.
+Package hyperref Info: Backreferencing OFF on input line 4201.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4448.
+\c@Hy@tempcnt=\count199
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4786.
+\XeTeXLinkMargin=\dimen142
+
+(/opt/texlive/texdir/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/opt/texlive/texdir/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count266
+\Field@Width=\dimen143
+\Fld@charsize=\dimen144
+Package hyperref Info: Hyper figures OFF on input line 6065.
+Package hyperref Info: Link nesting OFF on input line 6070.
+Package hyperref Info: Hyper index ON on input line 6073.
+Package hyperref Info: backreferencing OFF on input line 6080.
+Package hyperref Info: Link coloring OFF on input line 6085.
+Package hyperref Info: Link coloring with OCG OFF on input line 6090.
+Package hyperref Info: PDF/A mode OFF on input line 6095.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count267
+\c@Item=\count268
+\c@Hfootnote=\count269
+)
+Package hyperref Info: Driver (default): hdvips.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hdvips.def
+File: hdvips.def 2023-11-26 v7.01g Hyperref driver for dvips
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/pdfmark.def
+File: pdfmark.def 2023-11-26 v7.01g Hyperref definitions for pdfmark specials
+\pdf@docset=\toks18
+\pdf@box=\box51
+\pdf@toks=\toks19
+\pdf@defaulttoks=\toks20
+\HyField@AnnotCount=\count270
+\Fld@listcount=\count271
+\c@bookmark@seq@number=\count272
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip50
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 12.
+(/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count273
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/opt/texlive/texdir/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count274
+\c@listtotal=\count275
+\c@listcount=\count276
+\c@liststart=\count277
+\c@liststop=\count278
+\c@citecount=\count279
+\c@citetotal=\count280
+\c@multicitecount=\count281
+\c@multicitetotal=\count282
+\c@instcount=\count283
+\c@maxnames=\count284
+\c@minnames=\count285
+\c@maxitems=\count286
+\c@minitems=\count287
+\c@citecounter=\count288
+\c@maxcitecounter=\count289
+\c@savedcitecounter=\count290
+\c@uniquelist=\count291
+\c@uniquename=\count292
+\c@refsection=\count293
+\c@refsegment=\count294
+\c@maxextratitle=\count295
+\c@maxextratitleyear=\count296
+\c@maxextraname=\count297
+\c@maxextradate=\count298
+\c@maxextraalpha=\count299
+\c@abbrvpenalty=\count300
+\c@highnamepenalty=\count301
+\c@lownamepenalty=\count302
+\c@maxparens=\count303
+\c@parenlevel=\count304
+\blx@tempcnta=\count305
+\blx@tempcntb=\count306
+\blx@tempcntc=\count307
+\c@blx@maxsection=\count308
+\blx@maxsegment@0=\count309
+\blx@notetype=\count310
+\blx@parenlevel@text=\count311
+\blx@parenlevel@foot=\count312
+\blx@sectionciteorder@0=\count313
+\blx@sectionciteorderinternal@0=\count314
+\blx@entrysetcounter=\count315
+\blx@biblioinstance=\count316
+\labelnumberwidth=\skip51
+\labelalphawidth=\skip52
+\biblabelsep=\skip53
+\bibitemsep=\skip54
+\bibnamesep=\skip55
+\bibinitsep=\skip56
+\bibparsep=\skip57
+\bibhang=\skip58
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language89
+\c@mincomprange=\count317
+\c@maxcomprange=\count318
+\c@mincompwidth=\count319
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count320
+\c@savedafterword=\count321
+\c@annotator=\count322
+\c@savedannotator=\count323
+\c@author=\count324
+\c@savedauthor=\count325
+\c@bookauthor=\count326
+\c@savedbookauthor=\count327
+\c@commentator=\count328
+\c@savedcommentator=\count329
+\c@editor=\count330
+\c@savededitor=\count331
+\c@editora=\count332
+\c@savededitora=\count333
+\c@editorb=\count334
+\c@savededitorb=\count335
+\c@editorc=\count336
+\c@savededitorc=\count337
+\c@foreword=\count338
+\c@savedforeword=\count339
+\c@holder=\count340
+\c@savedholder=\count341
+\c@introduction=\count342
+\c@savedintroduction=\count343
+\c@namea=\count344
+\c@savednamea=\count345
+\c@nameb=\count346
+\c@savednameb=\count347
+\c@namec=\count348
+\c@savednamec=\count349
+\c@translator=\count350
+\c@savedtranslator=\count351
+\c@shortauthor=\count352
+\c@savedshortauthor=\count353
+\c@shorteditor=\count354
+\c@savedshorteditor=\count355
+\c@labelname=\count356
+\c@savedlabelname=\count357
+\c@institution=\count358
+\c@savedinstitution=\count359
+\c@lista=\count360
+\c@savedlista=\count361
+\c@listb=\count362
+\c@savedlistb=\count363
+\c@listc=\count364
+\c@savedlistc=\count365
+\c@listd=\count366
+\c@savedlistd=\count367
+\c@liste=\count368
+\c@savedliste=\count369
+\c@listf=\count370
+\c@savedlistf=\count371
+\c@location=\count372
+\c@savedlocation=\count373
+\c@organization=\count374
+\c@savedorganization=\count375
+\c@origlocation=\count376
+\c@savedoriglocation=\count377
+\c@origpublisher=\count378
+\c@savedorigpublisher=\count379
+\c@publisher=\count380
+\c@savedpublisher=\count381
+\c@language=\count382
+\c@savedlanguage=\count383
+\c@origlanguage=\count384
+\c@savedoriglanguage=\count385
+\c@pageref=\count386
+\c@savedpageref=\count387
+\shorthandwidth=\skip59
+\shortjournalwidth=\skip60
+\shortserieswidth=\skip61
+\shorttitlewidth=\skip62
+\shortauthorwidth=\skip63
+\shorteditorwidth=\skip64
+\locallabelnumberwidth=\skip65
+\locallabelalphawidth=\skip66
+\localshorthandwidth=\skip67
+\localshortjournalwidth=\skip68
+\localshortserieswidth=\skip69
+\localshorttitlewidth=\skip70
+\localshortauthorwidth=\skip71
+\localshorteditorwidth=\skip72
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+\c@textcitecount=\count388
+\c@textcitetotal=\count389
+\c@textcitemaxnames=\count390
+\c@biburlbigbreakpenalty=\count391
+\c@biburlbreakpenalty=\count392
+\c@biburlnumpenalty=\count393
+\c@biburlucpenalty=\count394
+\c@biburllcpenalty=\count395
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count396
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count397
+\c@bbx:relatedtotal=\count398
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-11-09 L3 programming layer (loader) 
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2023-11-09 L3 backend support: dvips
+\l__pdf_internal_box=\box52
+\g__pdf_backend_object_int=\count399
+\l__pdf_backend_content_box=\box53
+\l__pdf_backend_model_box=\box54
+\g__pdf_backend_annotation_int=\count400
+\g__pdf_backend_link_int=\count401
+\g__pdf_backend_link_sf_int=\count402
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2023-11-09 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+(/opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2023-10-10 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
+))
+(/opt/texlive/texdir/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip73
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/opt/texlive/texdir/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count403
+\Gm@cntv=\count404
+\c@Gm@tempcnt=\count405
+\Gm@bindingoffset=\dimen145
+\Gm@wd@mp=\dimen146
+\Gm@odd@mp=\dimen147
+\Gm@even@mp=\dimen148
+\Gm@layoutwidth=\dimen149
+\Gm@layoutheight=\dimen150
+\Gm@layouthoffset=\dimen151
+\Gm@layoutvoffset=\dimen152
+\Gm@dimlist=\toks21
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup4
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip74
+\f@nch@O@elh=\skip75
+\f@nch@O@erh=\skip76
+\f@nch@O@olh=\skip77
+\f@nch@O@orh=\skip78
+\f@nch@O@elf=\skip79
+\f@nch@O@erf=\skip80
+\f@nch@O@olf=\skip81
+\f@nch@O@orf=\skip82
+)
+\@quotelevel=\count406
+\@quotereset=\count407
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 3
+9.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+)
+(/home/runner/work/Publications/Publications/build/main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: dvips.def on input line 149.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2022/09/22 v3.1e Graphics/color driver for dvips
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+Package hyperref Info: Link coloring ON on input line 39.
+
+(/home/runner/work/Publications/Publications/build/main.out)
+(/home/runner/work/Publications/Publications/build/main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+
+(/home/runner/work/Publications/Publications/build/main.bbl)
+Package biblatex Info: Reference section=0 on input line 39.
+Package biblatex Info: Reference segment=0 on input line 39.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=0.0pt
+* \headheight=35.0pt
+* \headsep=16.42503pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\blx@maxsegment@1=\count408
+\blx@sectionciteorder@1=\count409
+Package biblatex Info: Reference section=1 on input line 47.
+Package biblatex Info: Setting label 'refsection:1' on input line 47.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 49.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 49.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 49.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 49.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 49
+.
+(/opt/texlive/texdir/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+Overfull \hbox (2.08366pt too wide) in paragraph at lines 49--49
+[]\OT1/phv/m/n/10.95 Selmer Bringsjord, Naveen Sun-dar Govin-dara-julu, and Mic
+hael Gi-an-cola. ``Logic-Based Mod-
+ []
+
+
+Overfull \hbox (73.19649pt too wide) in paragraph at lines 49--49
+\OT1/phv/m/n/10.95 Ed. by Ron Sun. Preprint avail-able at [][][][][][].
+ []
+
+Package biblatex Info: Reference section=0 on input line 50.
+\blx@maxsegment@2=\count410
+\blx@sectionciteorder@2=\count411
+Package biblatex Info: Reference section=2 on input line 52.
+Package biblatex Info: Setting label 'refsection:2' on input line 52.
+
+Overfull \hbox (63.19073pt too wide) in paragraph at lines 54--54
+\OT1/phv/m/n/10.95 nis Pono-maryov. Preprint avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (110.08916pt too wide) in paragraph at lines 54--54
+\OT1/phv/m/n/10.95 Mo-ham-mad Os-man Tokhi. Preprint avail-able at [][][][][][]
+.
+ []
+
+
+Overfull \hbox (10.28772pt too wide) in paragraph at lines 54--54
+[][][][][][]\OT1/phv/m/n/10.95 . \OT1/phv/m/sc/10.95 url\OT1/phv/m/n/10.95 : []
+[][][][][]. 
+ []
+
+
+Overfull \hbox (12.35033pt too wide) in paragraph at lines 54--54
+\OT1/phv/m/n/10.95 Tokhi. Preprint avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (10.28772pt too wide) in paragraph at lines 54--54
+[][][][][][]\OT1/phv/m/n/10.95 . \OT1/phv/m/sc/10.95 url\OT1/phv/m/n/10.95 : []
+[][][][][]. 
+ []
+
+
+Overfull \hbox (208.47322pt too wide) in paragraph at lines 54--54
+\OT1/phv/m/n/10.95 reira, N.S. Govin-dara-julu, M.F. Silva, and K.M. Go-her. Av
+ail-able at [][][][][][].
+ []
+
+[1
+
+]
+Package biblatex Info: Reference section=0 on input line 55.
+\blx@maxsegment@3=\count412
+\blx@sectionciteorder@3=\count413
+Package biblatex Info: Reference section=3 on input line 57.
+Package biblatex Info: Setting label 'refsection:3' on input line 57.
+
+Overfull \hbox (40.17519pt too wide) in paragraph at lines 59--59
+\OT1/phv/m/sl/10.95 Jour-nal of Be-hav-ioral Robotics\OT1/phv/m/n/10.95 . Vol. 
+12. 1. Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (66.51964pt too wide) in paragraph at lines 59--59
+\OT1/phv/m/sl/10.95 Sym-po-sium Se-ries\OT1/phv/m/n/10.95 . Avail-able at [][][
+][][][].
+ []
+
+Package biblatex Info: Reference section=0 on input line 60.
+\blx@maxsegment@4=\count414
+\blx@sectionciteorder@4=\count415
+Package biblatex Info: Reference section=4 on input line 62.
+Package biblatex Info: Setting label 'refsection:4' on input line 62.
+
+Overfull \hbox (17.5399pt too wide) in paragraph at lines 64--64
+[][][][][][]\OT1/phv/m/n/10.95 ., pp. 155{
+ []
+
+
+Overfull \hbox (312.24887pt too wide) in paragraph at lines 64--64
+\OT1/phv/m/n/10.95 Govin-dara-julu, M.F. Silva, E.E. Kadar, J. Wang, and A.P. K
+aur. Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (76.19849pt too wide) in paragraph at lines 64--64
+\OT1/phv/m/n/10.95 The Shad-owAd-ju-di-ca-tor sys-tem can be ob-tained here: []
+[][][][][].
+ []
+
+
+Overfull \hbox (130.69293pt too wide) in paragraph at lines 64--64
+\OT1/phv/m/n/10.95 Kadar, J. Wang, and A.P. Kaur. Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (320.7316pt too wide) in paragraph at lines 64--64
+\OT1/phv/m/n/10.95 fi-cial In-tel-li-gence and Ap-pli-ca-tions. Preprint avail-
+able at [][][][][][].
+ []
+
+[2]
+Overfull \hbox (6.08243pt too wide) in paragraph at lines 64--64
+[]\OT1/phv/m/n/10.95 Selmer Bringsjord, Naveen Sun-dar Govin-dara-julu, John Li
+-cato, and Michael Gi-an-cola. ``Learn-
+ []
+
+
+Overfull \hbox (115.49738pt too wide) in paragraph at lines 64--64
+\OT1/phv/m/n/10.95 put-ing. Easy-Chair, 2020, pp. 1{27. \OT1/phv/m/sc/10.95 doi
+\OT1/phv/m/n/10.95 : [][][][][][]. \OT1/phv/m/sc/10.95 url\OT1/phv/m/n/10.95 : 
+[][][][][][]. 
+ []
+
+Package biblatex Info: Reference section=0 on input line 65.
+\blx@maxsegment@5=\count416
+\blx@sectionciteorder@5=\count417
+Package biblatex Info: Reference section=5 on input line 67.
+Package biblatex Info: Setting label 'refsection:5' on input line 67.
+
+Overfull \hbox (77.62271pt too wide) in paragraph at lines 69--69
+\OT1/phv/m/sl/10.95 nol-ogy \OT1/phv/m/n/10.95 (2019). Avail-able at [][][][][]
+[],
+ []
+
+
+Overfull \hbox (223.11786pt too wide) in paragraph at lines 69--69
+\OT1/phv/m/sl/10.95 Con-fer-ence on AI, Ethics, and So-ci-ety (AIES 2019)\OT1/p
+hv/m/n/10.95 . Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (12.1703pt too wide) in paragraph at lines 69--69
+\OT1/phv/m/sl/10.95 Work-shop on Au-to-mated Rea-son-ing: Chal-lenges, Ap-pli-c
+a-tions, Di-rec-tions, Ex-em-plary Achieve-
+ []
+
+
+Overfull \hbox (166.95198pt too wide) in paragraph at lines 69--69
+\OT1/phv/m/n/10.95 ceed-ings in The-o-ret-i-cal Com-puter Sci-ence. Avail-able 
+at [][][][][][].
+ []
+
+
+Overfull \hbox (242.1294pt too wide) in paragraph at lines 69--69
+\OT1/phv/m/n/10.95 Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (11.60573pt too wide) in paragraph at lines 69--69
+\OT1/phv/m/n/10.95 Avail-able at [][][][][][]. Springer,
+ []
+
+[3]
+Overfull \hbox (155.51663pt too wide) in paragraph at lines 69--69
+\OT1/phv/m/n/10.95 Hu-manoid Robots''. In: \OT1/phv/m/sl/10.95 Fron-tiers in Ro
+botics and AI \OT1/phv/m/n/10.95 6.17 (2019). Avail-able at [][][][][][]. 
+ []
+
+Package biblatex Info: Reference section=0 on input line 70.
+\blx@maxsegment@6=\count418
+\blx@sectionciteorder@6=\count419
+Package biblatex Info: Reference section=6 on input line 72.
+Package biblatex Info: Setting label 'refsection:6' on input line 72.
+
+Overfull \hbox (181.03645pt too wide) in paragraph at lines 74--74
+\OT1/phv/m/n/10.95 sion pub-lished in 2018 is avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (246.53555pt too wide) in paragraph at lines 74--74
+\OT1/phv/m/n/10.95 Lies-beth De Mol and Giuseppe Prim-iero. Avail-able at [][][
+][][][].
+ []
+
+
+Overfull \hbox (68.42111pt too wide) in paragraph at lines 74--74
+\OT1/phv/m/sl/10.95 tions\OT1/phv/m/n/10.95 . Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (238.14462pt too wide) in paragraph at lines 74--74
+\OT1/phv/m/sl/10.95 2017\OT1/phv/m/n/10.95 . Ed. by V. Muller. Vol. 44. Avail-a
+ble at [][][][][][].
+ []
+
+
+Overfull \hbox (124.19264pt too wide) in paragraph at lines 74--74
+\OT1/phv/m/sl/10.95 ton-omy & Progress in AI Work-shop (AE-GAP 2018)\OT1/phv/m/
+n/10.95 . Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (35.53882pt too wide) in paragraph at lines 74--74
+\OT1/phv/m/n/10.95 Ab-bass, J. Scholz, and D. Reid. Avail-able at [][][][][][].
+
+ []
+
+[4]
+Overfull \hbox (95.01103pt too wide) in paragraph at lines 74--74
+\OT1/phv/m/n/10.95 Naveen Sun-dar Govin-dara-julu. Avail-able (within full e-bo
+ok) at [][][][][][].
+ []
+
+
+Overfull \hbox (17.82529pt too wide) in paragraph at lines 74--74
+\OT1/phv/m/n/10.95 Govin-dara-julu. Avail-able (within full e-book) at [][][][]
+[][].
+ []
+
+
+Overfull \hbox (17.82529pt too wide) in paragraph at lines 74--74
+\OT1/phv/m/n/10.95 Govin-dara-julu. Avail-able (within full e-book) at [][][][]
+[][].
+ []
+
+
+Overfull \hbox (4.51402pt too wide) in paragraph at lines 74--74
+\OT1/phv/m/n/10.95 Con-scious-ness''. In: \OT1/phv/m/sl/10.95 The Blooms-bury C
+om-pan-ion to the Phi-los-o-phy of Con-scious-ness \OT1/phv/m/n/10.95 (2018).
+ []
+
+
+Overfull \hbox (90.99545pt too wide) in paragraph at lines 74--74
+\OT1/phv/m/n/10.95 Ed. by D. Jacquette. Avail-able at [][][][][][],
+ []
+
+
+Overfull \hbox (186.03392pt too wide) in paragraph at lines 74--74
+\OT1/phv/m/n/10.95 tion (ToRA)''. In: \OT1/phv/m/sl/10.95 IA-CAP 2018 (Ex-tende
+d ab-stract) \OT1/phv/m/n/10.95 (2018). Avail-able at [][][][][][]. 
+ []
+
+Package biblatex Info: Reference section=0 on input line 75.
+\blx@maxsegment@7=\count420
+\blx@sectionciteorder@7=\count421
+Package biblatex Info: Reference section=7 on input line 77.
+Package biblatex Info: Setting label 'refsection:7' on input line 77.
+
+Overfull \hbox (8.70335pt too wide) in paragraph at lines 79--79
+\OT1/phv/m/n/10.95 at [][][][][][], pp. 663{
+ []
+
+
+Overfull \hbox (323.12668pt too wide) in paragraph at lines 79--79
+\OT1/phv/m/n/10.95 Ark-oudas''. In: \OT1/phv/m/sl/10.95 Minds and Ma-chines \OT
+1/phv/m/n/10.95 27.4 (2017). Avail-able at [][][][][][],
+ []
+
+
+Overfull \hbox (13.73149pt too wide) in paragraph at lines 79--79
+[]\OT1/phv/m/n/10.95 Selmer Bringsjord. ``Is Uni-ver-sal Com-pu-ta-tion a Myth?
+'' In: \OT1/phv/m/sl/10.95 Emer-gent Com-pu-ta-tion: A Festschrift
+ []
+
+
+Overfull \hbox (209.09428pt too wide) in paragraph at lines 79--79
+\OT1/phv/m/sl/10.95 for Se-lim Akl\OT1/phv/m/n/10.95 . Ed. by A. Adamatzky. Ava
+il-able at [][][][][][].
+ []
+
+[5]
+Overfull \hbox (10.90085pt too wide) in paragraph at lines 79--79
+[][][][][][]\OT1/phv/m/n/10.95 .
+ []
+
+
+Overfull \hbox (171.3678pt too wide) in paragraph at lines 79--79
+\OT1/phv/m/sl/10.95 tel-li-gence (IJCAI-17) \OT1/phv/m/n/10.95 (2017). Ed. by C
+. Sierra. Avail-able at [][][][][][],
+ []
+
+
+Overfull \hbox (232.40741pt too wide) in paragraph at lines 79--79
+\OT1/phv/m/n/10.95 M. Fin-ger, L. Godo, H. Prade, and G. Qi. Avail-able at [][]
+[][][][].
+ []
+
+
+Overfull \hbox (149.61972pt too wide) in paragraph at lines 79--79
+\OT1/phv/m/n/10.95 Mel-bourne, Aus-tralia, Aug. 2017, pp. 34{40. \OT1/phv/m/sc/
+10.95 url\OT1/phv/m/n/10.95 : [][][][][][]. 
+ []
+
+
+Overfull \hbox (158.6375pt too wide) in paragraph at lines 79--79
+\OT1/phv/m/n/10.95 of the Mind''. In: \OT1/phv/m/sl/10.95 2017 AAAI Fall Sym-po
+-sium Se-ries\OT1/phv/m/n/10.95 . Avail-able at [][][][][][].
+ []
+
+Package biblatex Info: Reference section=0 on input line 80.
+\blx@maxsegment@8=\count422
+\blx@sectionciteorder@8=\count423
+Package biblatex Info: Reference section=8 on input line 82.
+Package biblatex Info: Setting label 'refsection:8' on input line 82.
+
+Overfull \hbox (140.48267pt too wide) in paragraph at lines 84--84
+\OT1/phv/m/sl/10.95 gence\OT1/phv/m/n/10.95 . Ed. by V. Muller. Vol. 376. Avail
+-able at [][][][][][].
+ []
+
+
+Overfull \hbox (328.40802pt too wide) in paragraph at lines 84--84
+\OT1/phv/m/n/10.95 Lo-gi-cians, Fast''. In: \OT1/phv/m/sl/10.95 Ap-plied Ar-ti-
+fi-cial In-tel-li-gence \OT1/phv/m/n/10.95 30.8 (2016). Avail-able at [][][][][
+][],
+ []
+
+
+Overfull \hbox (221.57382pt too wide) in paragraph at lines 84--84
+\OT1/phv/m/n/10.95 N^^\rskov, and S. An-der-sen. Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (308.62828pt too wide) in paragraph at lines 84--84
+\OT1/phv/m/sl/10.95 Work-shop on Ethics in the De-sign of In-tel-li-gent Agents
+\OT1/phv/m/n/10.95 . Avail-able at [][][][][][].
+ []
+
+[6]
+Overfull \hbox (333.41125pt too wide) in paragraph at lines 84--84
+\OT1/phv/m/sl/10.95 In-te-grat-ing Cog-ni-tive Ar-chi-tec-tures into Vir-tual C
+har-ac-ter De-sign\OT1/phv/m/n/10.95 . Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (182.90253pt too wide) in paragraph at lines 84--84
+\OT1/phv/m/n/10.95 Con-di-tion-als''. In: \OT1/phv/m/sl/10.95 Com-put-ing and P
+hi-los-o-phy\OT1/phv/m/n/10.95 . Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (423.03123pt too wide) in paragraph at lines 84--84
+\OT1/phv/m/n/10.95 Sys-tems, Con-trol and Au-toma-tion: Sci-ence and En-gi-neer
+-ing. Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (127.26364pt too wide) in paragraph at lines 84--84
+\OT1/phv/m/sl/10.95 gence 2016\OT1/phv/m/n/10.95 . Ed. by U. Fur-bach and C. Sc
+hon. Avail-able at [][][][][][].
+ []
+
+Package biblatex Info: Reference section=0 on input line 85.
+\blx@maxsegment@9=\count424
+\blx@sectionciteorder@9=\count425
+Package biblatex Info: Reference section=9 on input line 87.
+Package biblatex Info: Setting label 'refsection:9' on input line 87.
+
+Overfull \hbox (100.39278pt too wide) in paragraph at lines 89--89
+\OT1/phv/m/sl/10.95 Logic \OT1/phv/m/n/10.95 36.3 (2015). Avail-able at [][][][
+][][],
+ []
+
+
+Overfull \hbox (368.06668pt too wide) in paragraph at lines 89--89
+\OT1/phv/m/n/10.95 Proof Dis-cov-ery for Rel-a-tiv-ity''. In: \OT1/phv/m/sl/10.
+95 Syn-these \OT1/phv/m/n/10.95 192.7 (2015). Avail-able at [][][][][][],
+ []
+
+
+Overfull \hbox (205.10599pt too wide) in paragraph at lines 89--89
+\OT1/phv/m/sl/10.95 Ex-per-i-men-tal & The-o-ret-i-cal Ar-ti-fi-cial In-tel-li-
+gence \OT1/phv/m/n/10.95 27.1 (2015). Avail-able at [][][][][][],
+ []
+
+
+Overfull \hbox (182.63219pt too wide) in paragraph at lines 89--89
+\OT1/phv/m/sl/10.95 o-phy & Tech-nol-ogy \OT1/phv/m/n/10.95 28.3 (2015). Avail-
+able at [][][][][][],
+ []
+
+
+Overfull \hbox (174.0255pt too wide) in paragraph at lines 89--89
+\OT1/phv/m/sl/10.95 ceed-ings of Ar-ti-fi-cial Eco-nomics\OT1/phv/m/n/10.95 . A
+vail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (161.05562pt too wide) in paragraph at lines 89--89
+\OT1/phv/m/sl/10.95 Sys-tems\OT1/phv/m/n/10.95 . Ed. by Robert Trappl. Avail-ab
+le at [][][][][][].
+ []
+
+[7]
+Overfull \hbox (45.65202pt too wide) in paragraph at lines 89--89
+\OT1/phv/m/n/10.95 able at [][][][][][].
+ []
+
+
+Overfull \hbox (348.43524pt too wide) in paragraph at lines 89--89
+\OT1/phv/m/sl/10.95 Sym-po-sium on Robot and Hu-man In-ter-ac-tive Com-mu-ni-ca
+-tion\OT1/phv/m/n/10.95 . Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (208.925pt too wide) in paragraph at lines 89--89
+\OT1/phv/m/sl/10.95 Logic, Rel-a-tiv-ity and Be-yond\OT1/phv/m/n/10.95 . Avail-
+able at [][][][][][].
+ []
+
+
+Overfull \hbox (0.26353pt too wide) in paragraph at lines 89--89
+[]\OT1/phv/m/n/10.95 Selmer Bringsjord. ``The-o-rem: Gen-eral In-tel-li-gence E
+n-tails Cre-ativ-ity, As-sum-ing ...'' In: \OT1/phv/m/sl/10.95 Com-
+ []
+
+
+Overfull \hbox (56.79958pt too wide) in paragraph at lines 89--89
+\OT1/phv/m/n/10.95 mer, and A. Smaill. Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (28.8298pt too wide) in paragraph at lines 89--89
+\OT1/phv/m/n/10.95 able at [][][][][][]. Springer,
+ []
+
+
+Overfull \hbox (5.61635pt too wide) in paragraph at lines 89--89
+\OT1/phv/m/n/10.95 Smaill. Avail-able at [][][][][][].
+ []
+
+Package biblatex Info: Reference section=0 on input line 90.
+\blx@maxsegment@10=\count426
+\blx@sectionciteorder@10=\count427
+Package biblatex Info: Reference section=10 on input line 92.
+Package biblatex Info: Setting label 'refsection:10' on input line 92.
+
+Overfull \hbox (143.57724pt too wide) in paragraph at lines 94--94
+\OT1/phv/m/n/10.95 In: \OT1/phv/m/sl/10.95 Mind & So-ci-ety \OT1/phv/m/n/10.95 
+13.1 (2014). Avail-able at [][][][][][],
+ []
+
+[8]
+Overfull \hbox (179.0697pt too wide) in paragraph at lines 94--94
+\OT1/phv/m/n/10.95 Buried Data''. In: \OT1/phv/m/sl/10.95 Build-ing a Smarter U
+ni-ver-sity \OT1/phv/m/n/10.95 (2014). Avail-able at [][][][][][],
+ []
+
+
+Overfull \hbox (58.11563pt too wide) in paragraph at lines 94--94
+\OT1/phv/m/sl/10.95 Fron-tiers in Hu-man Neu-ro-science \OT1/phv/m/n/10.95 8 (2
+014). Avail-able at [][][][][][],
+ []
+
+
+Overfull \hbox (192.29823pt too wide) in paragraph at lines 94--94
+\OT1/phv/m/n/10.95 Ed. by B. Go-ertzel, L. Orseau, and J Snaider. Avail-able at
+ [][][][][][].
+ []
+
+
+Overfull \hbox (128.79695pt too wide) in paragraph at lines 94--94
+\OT1/phv/m/sl/10.95 Re-search \OT1/phv/m/n/10.95 28 (2014). Avail-able at [][][
+][][][],
+ []
+
+
+Overfull \hbox (138.83006pt too wide) in paragraph at lines 94--94
+\OT1/phv/m/sl/10.95 Cog-ni-tive Sci-ence So-ci-ety\OT1/phv/m/n/10.95 . Vol. 36.
+ 36. Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (15.33992pt too wide) in paragraph at lines 94--94
+\OT1/phv/m/sl/10.95 (IJCNN)\OT1/phv/m/n/10.95 . Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (91.57866pt too wide) in paragraph at lines 94--94
+\OT1/phv/m/sl/10.95 ence\OT1/phv/m/n/10.95 . Ed. by Ruth Ha-gen-gru-ber and Uwe
+ Riss. Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (159.0538pt too wide) in paragraph at lines 94--94
+\OT1/phv/m/n/10.95 Ol-szewski, B. Brozek, and P. Ur-banczyk. Avail-able at [][]
+[][][][].
+ []
+
+
+Overfull \hbox (272.12975pt too wide) in paragraph at lines 94--94
+\OT1/phv/m/sl/10.95 po-sium on Ethics in En-gi-neer-ing, Sci-ence, and Tech-nol
+-ogy\OT1/phv/m/n/10.95 . Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (0.4143pt too wide) in paragraph at lines 94--94
+\OT1/phv/m/n/10.95 Avail-able at [][][][][][], pp. 19{27. 
+ []
+
+[9]
+Overfull \hbox (76.1586pt too wide) in paragraph at lines 94--94
+\OT1/phv/m/sl/10.95 Work-shop on Ar-ti-fi-cial In-tel-li-gence and Cog-ni-tion\
+OT1/phv/m/n/10.95 . Avail-able at [][][][][][].
+ []
+
+Package biblatex Info: Reference section=0 on input line 95.
+\blx@maxsegment@11=\count428
+\blx@sectionciteorder@11=\count429
+Package biblatex Info: Reference section=11 on input line 97.
+Package biblatex Info: Setting label 'refsection:11' on input line 97.
+
+Overfull \hbox (25.63977pt too wide) in paragraph at lines 99--99
+[][][][][][] \OT1/phv/m/n/10.95 (pay-walled). Springer.
+ []
+
+
+Overfull \hbox (270.25325pt too wide) in paragraph at lines 99--99
+\OT1/phv/m/sl/10.95 ings of the NATO Work-shop on Ethics of Cy-ber Con-flict\OT
+1/phv/m/n/10.95 . Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (2.77957pt too wide) in paragraph at lines 99--99
+\OT1/phv/m/n/10.95 Avail-able at [][][][][][], pp. 251{
+ []
+
+
+Overfull \hbox (73.70601pt too wide) in paragraph at lines 99--99
+\OT1/phv/m/n/10.95 S^^\raker, and E. Stein-hart. Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (137.44157pt too wide) in paragraph at lines 99--99
+\OT1/phv/m/n/10.95 S^^\raker, and E. Stein-hart. Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (81.41853pt too wide) in paragraph at lines 99--99
+\OT1/phv/m/sl/10.95 tional Equiv-a-lence\OT1/phv/m/n/10.95 . Avail-able at [][]
+[][][][].
+ []
+
+Package biblatex Info: Reference section=0 on input line 100.
+\blx@maxsegment@12=\count430
+\blx@sectionciteorder@12=\count431
+Package biblatex Info: Reference section=12 on input line 102.
+Package biblatex Info: Setting label 'refsection:12' on input line 102.
+
+Overfull \hbox (83.57541pt too wide) in paragraph at lines 104--104
+\OT1/phv/m/sl/10.95 on Af-fec-tive Com-put-ing \OT1/phv/m/n/10.95 3.4 (2012). A
+vail-able at [][][][][][],
+ []
+
+[10]
+Overfull \hbox (55.449pt too wide) in paragraph at lines 104--104
+\OT1/phv/m/sl/10.95 ness Stud-ies \OT1/phv/m/n/10.95 19.7 (2012). Avail-able at
+ [][][][][][],
+ []
+
+
+Overfull \hbox (228.42075pt too wide) in paragraph at lines 104--104
+\OT1/phv/m/n/10.95 pu-ta-tion''''. In: \OT1/phv/m/sl/10.95 Par-al-lel Pro-cess-
+ing Let-ters \OT1/phv/m/n/10.95 22.03 (2012). Avail-able at [][][][][][],
+ []
+
+
+Overfull \hbox (225.5847pt too wide) in paragraph at lines 104--104
+\OT1/phv/m/sl/10.95 Logic and Rel-a-tiv-ity \OT1/phv/m/n/10.95 (2012). Avail-ab
+le at [][][][][][]. 
+ []
+
+
+Overfull \hbox (73.08946pt too wide) in paragraph at lines 104--104
+\OT1/phv/m/n/10.95 Wang and Ben Go-ertzel. Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (162.0883pt too wide) in paragraph at lines 104--104
+\OT1/phv/m/n/10.95 Re-ally?'' In: \OT1/phv/m/sl/10.95 Metaphi-los-o-phy \OT1/ph
+v/m/n/10.95 43.4 (2012). Avail-able at [][][][][][],
+ []
+
+
+Overfull \hbox (138.58809pt too wide) in paragraph at lines 104--104
+\OT1/phv/m/n/10.95 and George A Bekey. Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (205.33415pt too wide) in paragraph at lines 104--104
+\OT1/phv/m/sl/10.95 ter-na-tional Jour-nal of Un-con-ven-tional Com-put-ing \OT
+1/phv/m/n/10.95 8.1 (2012). Avail-able at [][][][][][],
+ []
+
+
+Overfull \hbox (25.43489pt too wide) in paragraph at lines 104--104
+\OT1/phv/m/n/10.95 Avail-able at [][][][][][], pp. 90{
+ []
+
+Package biblatex Info: Reference section=0 on input line 105.
+\blx@maxsegment@13=\count432
+\blx@sectionciteorder@13=\count433
+Package biblatex Info: Reference section=13 on input line 107.
+Package biblatex Info: Setting label 'refsection:13' on input line 107.
+
+Overfull \hbox (135.66469pt too wide) in paragraph at lines 109--109
+\OT1/phv/m/n/10.95 rect''. In: \OT1/phv/m/sl/10.95 Ma-chine ethics \OT1/phv/m/n
+/10.95 (2011). Avail-able at [][][][][][],
+ []
+
+[11]
+Overfull \hbox (57.39035pt too wide) in paragraph at lines 109--109
+[][][][][][]\OT1/phv/m/n/10.95 .
+ []
+
+
+Overfull \hbox (138.04118pt too wide) in paragraph at lines 109--109
+\OT1/phv/m/n/10.95 Lawniczak, and B. Di Ste-fano. 14. Avail-able at [][][][][][
+].
+ []
+
+
+Overfull \hbox (239.57648pt too wide) in paragraph at lines 109--109
+\OT1/phv/m/sl/10.95 IX: Churchs The-sis: Logic, Mind and Na-ture. Krakow, Polan
+d\OT1/phv/m/n/10.95 . Avail-able at [][][][][][].
+ []
+
+Package biblatex Info: Reference section=0 on input line 110.
+\blx@maxsegment@14=\count434
+\blx@sectionciteorder@14=\count435
+Package biblatex Info: Reference section=14 on input line 112.
+Package biblatex Info: Setting label 'refsection:14' on input line 112.
+
+Overfull \hbox (242.85326pt too wide) in paragraph at lines 114--114
+\OT1/phv/m/n/10.95 Game Test for Self-Consciousness''. In: \OT1/phv/m/sl/10.95 
+Metaphi-los-o-phy \OT1/phv/m/n/10.95 41.3 (2010). Avail-able at [][][][][][],
+ []
+
+
+Overfull \hbox (83.57251pt too wide) in paragraph at lines 114--114
+\OT1/phv/m/sl/10.95 fi-cial In-tel-li-gence and Ap-pli-ca-tions\OT1/phv/m/n/10.
+95 . Vol. 213. Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (71.56386pt too wide) in paragraph at lines 114--114
+\OT1/phv/m/n/10.95 ing test''. In: \OT1/phv/m/sl/10.95 Ky-ber-netes \OT1/phv/m/
+n/10.95 (2010). Avail-able at [][][][][][]. 
+ []
+
+Package biblatex Info: Reference section=0 on input line 115.
+\blx@maxsegment@15=\count436
+\blx@sectionciteorder@15=\count437
+Package biblatex Info: Reference section=15 on input line 117.
+Package biblatex Info: Setting label 'refsection:15' on input line 117.
+[12]
+Overfull \hbox (173.85207pt too wide) in paragraph at lines 119--119
+\OT1/phv/m/n/10.95 lem solv-ing''. In: \OT1/phv/m/sl/10.95 Ar-ti-fi-cial In-tel
+-li-gence \OT1/phv/m/n/10.95 173.15 (2009). Avail-able at [][][][][][],
+ []
+
+
+Overfull \hbox (179.6205pt too wide) in paragraph at lines 119--119
+\OT1/phv/m/sl/10.95 En-cy-clo-pe-dia of Com-puter Sci-ence and En-gi-neer-ing \
+OT1/phv/m/n/10.95 (2009). Avail-able at [][][][][][]. 
+ []
+
+
+Overfull \hbox (146.3961pt too wide) in paragraph at lines 119--119
+\OT1/phv/m/sl/10.95 Int. J. Soft-ware and In-for-mat-ics \OT1/phv/m/n/10.95 3.1
+ (2009). Avail-able at [][][][][][],
+ []
+
+
+Overfull \hbox (876.16861pt too wide) in paragraph at lines 119--119
+\OT1/phv/m/n/10.95 son-ing Via 3-Valued Het-ero-ge-neous Logic.'' In: \OT1/phv/
+m/sl/10.95 KEOD\OT1/phv/m/n/10.95 . Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (169.25815pt too wide) in paragraph at lines 119--119
+\OT1/phv/m/sl/10.95 Con-fer-ence on Ar-ti-fi-ciel Gen-eral In-tel-li-gence (200
+9)\OT1/phv/m/n/10.95 . Avail-able at [][][][][][].
+ []
+
+Package biblatex Info: Reference section=0 on input line 120.
+\blx@maxsegment@16=\count438
+\blx@sectionciteorder@16=\count439
+Package biblatex Info: Reference section=16 on input line 122.
+Package biblatex Info: Setting label 'refsection:16' on input line 122.
+
+Overfull \hbox (233.40843pt too wide) in paragraph at lines 124--124
+\OT1/phv/m/n/10.95 be-come a field unto it-self''. In: \OT1/phv/m/sl/10.95 Jour
+-nal of Ap-plied Logic \OT1/phv/m/n/10.95 6.4 (2008). Avail-able at [][][][][][
+],
+ []
+
+
+Overfull \hbox (8.52826pt too wide) in paragraph at lines 124--124
+\OT1/phv/m/n/10.95 Avail-able at [][][][][][], pp. 539{
+ []
+
+
+Overfull \hbox (5.33894pt too wide) in paragraph at lines 124--124
+[]\OT1/phv/m/n/10.95 Selmer Bringsjord. ``Declarative/logic-based com-pu-ta-tio
+nal cog-ni-tive mod-el-ing''. In: \OT1/phv/m/sl/10.95 The Hand-
+ []
+
+
+Overfull \hbox (59.93849pt too wide) in paragraph at lines 124--124
+\OT1/phv/m/sl/10.95 In-tel-li-gence\OT1/phv/m/n/10.95 . Avail-able at [][][][][
+][].
+ []
+
+[13]
+Overfull \hbox (261.76674pt too wide) in paragraph at lines 124--124
+\OT1/phv/m/sl/10.95 Com-pu-ta-tional Mod-els of Nat-u-ral Ar-gu-ment (CMNA 8)\O
+T1/phv/m/n/10.95 . Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (179.60622pt too wide) in paragraph at lines 124--124
+\OT1/phv/m/n/10.95 In: \OT1/phv/m/sl/10.95 AAAI Fall Sym-po-sium: Au-to-mated S
+ci-en-tific Dis-cov-ery\OT1/phv/m/n/10.95 . Avail-able at [][][][][][].
+ []
+
+
+Overfull \hbox (193.69113pt too wide) in paragraph at lines 124--124
+\OT1/phv/m/sl/10.95 olog-i-cal Is-sues in the Quest for the Think-ing Com-puter
+ \OT1/phv/m/n/10.95 (2008). Avail-able at [][][][][][]. 
+ []
+
+
+Overfull \hbox (2.6707pt too wide) in paragraph at lines 124--124
+[]\OT1/phv/m/n/10.95 Micah Clark and Selmer Bringsjord. ``Per-sua-sion Tech-nol
+-ogy Through Me-chan-i-cal Sophistry''.
+ []
+
+
+Overfull \hbox (228.13754pt too wide) in paragraph at lines 124--124
+\OT1/phv/m/n/10.95 In: \OT1/phv/m/sl/10.95 Com-mu-ni-ca-tion and So-cial In-tel
+-li-gence \OT1/phv/m/n/10.95 (2008). Avail-able at [][][][][][],
+ []
+
+Package biblatex Info: Reference section=0 on input line 125.
+\blx@maxsegment@17=\count440
+\blx@sectionciteorder@17=\count441
+Package biblatex Info: Reference section=17 on input line 127.
+Package biblatex Info: Setting label 'refsection:17' on input line 127.
+
+Overfull \hbox (143.2715pt too wide) in paragraph at lines 129--129
+\OT1/phv/m/sl/10.95 li-gence Re-sources (OIC-2007), ed., KS Hornsby \OT1/phv/m/
+n/10.95 (2007). Avail-able at [][][][][][],
+ []
+
+
+Overfull \hbox (145.14743pt too wide) in paragraph at lines 129--129
+\OT1/phv/m/n/10.95 knowl-edge''. In: \OT1/phv/m/sl/10.95 Minds and Ma-chines \O
+T1/phv/m/n/10.95 17.2 (2007). Avail-able at [][][][][][],
+ []
+
+
+Overfull \hbox (151.48718pt too wide) in paragraph at lines 129--129
+\OT1/phv/m/n/10.95 de-cline''. In: \OT1/phv/m/sl/10.95 Jour-nal of Con-scious-n
+ess Stud-ies \OT1/phv/m/n/10.95 14.7 (2007). Avail-able at [][][][][][],
+ []
+
+
+Overfull \hbox (11.79639pt too wide) in paragraph at lines 129--129
+[]\OT1/phv/m/n/10.95 Selmer Bringsjord, Kon-stan-tine Ark-oudas, Deepa Mukher-j
+ee, An-drew Ed-ward Shill-i-day, Joshua
+ []
+
+
+Overfull \hbox (254.62788pt too wide) in paragraph at lines 129--129
+\OT1/phv/m/n/10.95 Re-search.'' In: \OT1/phv/m/sl/10.95 AAAI Spring Sym-po-sium
+: Ma-chine Read-ing\OT1/phv/m/n/10.95 . Avail-able at [][][][][][].
+ []
+
+[14]
+Package biblatex Info: Reference section=0 on input line 130.
+\blx@maxsegment@18=\count442
+\blx@sectionciteorder@18=\count443
+Package biblatex Info: Reference section=18 on input line 132.
+Package biblatex Info: Setting label 'refsection:18' on input line 132.
+
+Overfull \hbox (212.0979pt too wide) in paragraph at lines 134--134
+\OT1/phv/m/sl/10.95 and Learn-ing \OT1/phv/m/n/10.95 2.2 (2006). Avail-able at 
+[][][][][][].
+ []
+
+
+Overfull \hbox (57.8118pt too wide) in paragraph at lines 134--134
+\OT1/phv/m/n/10.95 Ad-di-tion-ally, preprint avail-able at [][][][][][],
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 1
+34.
+(/opt/texlive/texdir/texmf-dist/tex/latex/psnfss/ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
+LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 134.
+
+Overfull \hbox (0.30966pt too wide) in paragraph at lines 134--134
+[]\OT1/phv/m/n/10.95 Selmer Bringsjord and Kon-stan-tine Ark-oudas. ``On the Pr
+ov-abil-ity, Ve-rac-ity, and Al-Relevance
+ []
+
+
+Overfull \hbox (304.8624pt too wide) in paragraph at lines 134--134
+\OT1/phv/m/n/10.95 of the Church[]a\TS1/phv/m/n/10.95 ¿\OT1/phv/m/n/10.95 "Turi
+ng The-sis''. In: \OT1/phv/m/sl/10.95 Church[]a\TS1/phv/m/sl/10.95 ¿—\OT1/phv/m
+/sl/10.95 s The-sis af-ter \OT1/phv/m/n/10.95 70 (2006). Avail-able at [][][][]
+[][],
+ []
+
+
+Overfull \hbox (0.39743pt too wide) in paragraph at lines 134--134
+[]\OT1/phv/m/n/10.95 Selmer Bringsjord, Kon-stan-tine Ark-oudas, and Paul Bello
+. ``To-ward a gen-eral logi-cist method-
+ []
+
+
+Overfull \hbox (27.92795pt too wide) in paragraph at lines 134--134
+\OT1/phv/m/n/10.95 Avail-able at [][][][][][],
+ []
+
+
+Overfull \hbox (2.30946pt too wide) in paragraph at lines 134--134
+\OT1/phv/m/sl/10.95 Meet AI-Hard Prob-lems\OT1/phv/m/n/10.95 . Avail-able at []
+[][][][][].
+ []
+
+Package biblatex Info: Reference section=0 on input line 135.
+\blx@maxsegment@19=\count444
+\blx@sectionciteorder@19=\count445
+Package biblatex Info: Reference section=19 on input line 137.
+Package biblatex Info: Setting label 'refsection:19' on input line 137.
+
+Overfull \hbox (241.04669pt too wide) in paragraph at lines 139--139
+\OT1/phv/m/n/10.95 nized de-on-tic logic''. In: \OT1/phv/m/sl/10.95 AAAI fall s
+ym-po-sium on ma-chine ethics\OT1/phv/m/n/10.95 . Avail-able at [][][][][][].
+ []
+
+Package biblatex Info: Reference section=0 on input line 140.
+\blx@maxsegment@20=\count446
+\blx@sectionciteorder@20=\count447
+Package biblatex Info: Reference section=20 on input line 142.
+Package biblatex Info: Setting label 'refsection:20' on input line 142.
+
+Overfull \hbox (179.02069pt too wide) in paragraph at lines 144--144
+\OT1/phv/m/n/10.95 minds''. In: \OT1/phv/m/sl/10.95 The-o-ret-i-cal Com-puter S
+ci-ence \OT1/phv/m/n/10.95 317.1-3 (2004). Avail-able at [][][][][][],
+ []
+
+[15]
+Overfull \hbox (16.3985pt too wide) in paragraph at lines 144--144
+[][][][][][]\OT1/phv/m/n/10.95 . Springer. 2004, pp. 111{
+ []
+
+
+Overfull \hbox (286.5472pt too wide) in paragraph at lines 144--144
+\OT1/phv/m/sl/10.95 grated Sys-tems and Re-search[]a\TS1/phv/m/sl/10.95 ¿—\OT1/
+phv/m/sl/10.95 , Menlo Park, CA\OT1/phv/m/n/10.95 . Avail-able at [][][][][][].
+
+ []
+
+Package biblatex Info: Reference section=0 on input line 145.
+\blx@maxsegment@21=\count448
+\blx@sectionciteorder@21=\count449
+Package biblatex Info: Reference section=21 on input line 147.
+Package biblatex Info: Setting label 'refsection:21' on input line 147.
+
+Overfull \hbox (283.39287pt too wide) in paragraph at lines 149--149
+\OT1/phv/m/n/10.95 (2003). Avail-able at [][][][][][],
+ []
+
+Package biblatex Info: Reference section=0 on input line 150.
+[16] (/home/runner/work/Publications/Publications/build/main.aux)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+ ***********
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 16770 strings out of 474268
+ 314520 string characters out of 5749474
+ 1956552 words of memory out of 5000000
+ 38830 multiletter control sequences out of 15000+600000
+ 565747 words of font info for 57 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,12n,81p,677b,1647s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on /home/runner/work/Publications/Publications/build/main.dvi (1
+6 pages, 165072 bytes).
