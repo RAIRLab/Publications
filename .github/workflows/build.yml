@@ -3,9 +3,9 @@ on:
     branches: [main]
 
 jobs:
-  build-resume:
+  build-pdf:
     runs-on: ubuntu-latest
-    name: Create document
+    name: Build and Upload Publications PDF
     steps:
     - name: Checkout
       uses: actions/checkout@v1
@@ -14,8 +14,9 @@ jobs:
       with:
         root_file: main.tex
         working_directory: src
-    - name: Store pdf
-      uses: actions/upload-artifact@v2
-      with:
-        name: publications.pdf
-        path: src/main.pdf
+        args: -outdir=../build
+    - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
