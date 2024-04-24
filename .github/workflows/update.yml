@@ -16,7 +16,7 @@ jobs:
       with:
         python-version: '3.x'
     - name: Query DBLP Publications
-      run: python scripts/dblp.py
+      run: python generate.py
     - name: Compile LaTeX document
       uses: xu-cheng/latex-action@v3
       with:
