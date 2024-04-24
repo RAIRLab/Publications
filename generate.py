@@ -116,7 +116,7 @@ if __name__ == '__main__':
     \\printbibliography[title={year}, heading=bibliography]
 \\end{{refsection}}
 """
-
+    texBibFileStr = texBibFileStr.encode("ascii", "backslashreplace").decode()
     #write the tex file
     with open("publications.tex", "w") as f:
         f.write(texBibFileStr)
