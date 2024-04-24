@@ -13,7 +13,7 @@ jobs:
       uses: xu-cheng/latex-action@v3
       with:
         root_file: main.tex
-        working_directory: src
+        #working_directory: src
         args: -outdir=../build -pdf
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3

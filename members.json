@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Selmer Bringsjord",
+        "id": "99/3934",
+        "perm": true
+    },
+    {
+        "name": "Naveen Sundar Govindarajulu",
+        "id": "09/3402",
+        "perm": true
+    },
+    {
+        "name": "John Slowik",
+        "id": "337/9016",
+        "perm": false
+    },
+    {
+        "name": "Brandon Rozek",
+        "id": "300/9484",
+        "perm": false
+    },
+    {
+        "name": "James T. Oswald",
+        "id": "337/9226",
+        "perm": false
+    }
+]
