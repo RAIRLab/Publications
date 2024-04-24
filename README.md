@@ -19,9 +19,9 @@ To be automatically classified as a lab paper, the paper must:
 1) Appear in the [DBLP](https://dblp.dagstuhl.de/) database.
 2) Have at least two members appearing in the `members.json` list.
 3) Have both members marked as a current members, to be considered a current member they must either
-  1) Be marked as a permanent member in `members.json` with `"perm": true`. 
-  2) Have this be their first RAIR Lab publication. 
-  3) Have less than 8 years between their first RAIR Lab publication and now.
+  * Be marked as a permanent member in `members.json` with `"perm": true`. 
+  * Have this be their first RAIR Lab publication. 
+  * Have less than 8 years between their first co-authored Selmer publication and now.
 
 This system prevents situations such as a 2024 paper that both Selmer and Paul Bello are on, but no other lab members are 
 from being considered a RAIR Lab publication. 
