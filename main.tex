@@ -36,6 +36,10 @@
 \rfoot{}
 \headsep 1.5em
 
+%Some bib entries have this character, which causes a problem
+%If latex build ever fails due to a unicode character, add it here
+\DeclareUnicodeCharacter{0308}{} 
+
 \begin{document}
 
 \include{publications}

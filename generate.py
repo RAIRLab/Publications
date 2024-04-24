@@ -6,22 +6,25 @@ import xml.etree.ElementTree as ET
 DBLP_PID_ENTRYPOINT = "https://dblp.dagstuhl.de/pid/"
 
 class Publication:
-    def __init__(self, obj, bibstr):
+    def __init__(self, obj, bibsByKey):
         self.title = obj.find(".//title").text #Title acts as ID
-        self.bibstr = bibstr
-        
-        try:
-            self.authorPIDs = [o.attrib["name"] for o in obj.find(".//author")]
-        except Exception:
-            try: #If author is not present, fallback to editors
-                self.authorPIDs = [o.attrib["name"] for o in obj.find(".//editor")]
-            except Exception:
-                self.authorPIDs = []
-        
         try:
             self.year = int(obj.find(".//year").text)
         except Exception:
             self.year = 0
+
+        self.key = obj[0].attrib["key"] #Key is the first child of the publication, used to fetch BibTeX string
+        self.bibstr = bibsByKey["DBLP:" + self.key] #BibTeX string for this publication
+        
+        try:
+            self.authorPIDs = [o.attrib["name"] for o in obj.find(".//author")]
+        except Exception:
+            self.authorPIDs = []
+            #We don't want to include editorships in the publication list, having a pub with no authors will be pruned
+            # try: #If author is not present, fallback to editors
+            #     self.authorPIDs = [o.attrib["name"] for o in obj.find(".//editor")]
+            # except Exception:
+            #     self.authorPIDs = []
         
     def __eq__(self, other):
         return self.title == other.title
@@ -42,7 +45,11 @@ class Member:
         xmlTree = ET.fromstring(rawXML)
         xmlPubs = xmlTree.findall(".//r") #This has to work since being in DBLP means having at least one publication
         assert len(xmlPubs) == len(bibs), "Number of publications in XML and BIB file do not match"
-        self.pubs = [Publication(x, b) for x, b in zip(xmlPubs, bibs)]
+        
+        #The key is after the first { to the first , in the bib entry
+        bibsByKey = {bib.split("{")[1].split(",")[0]: bib for bib in bibs}
+
+        self.pubs = [Publication(x, bibsByKey) for x in xmlPubs]
 
     def pubsByYear(self):
         """Returns a list of publications, partially sorted by year."""
@@ -66,10 +73,10 @@ if __name__ == '__main__':
     pubAuthors = {} #Maps a publication title to its RAIR affiliated authors
     for m in members:
         for p in m.pubs:
-            if p.title in pubAuthors:
-                pubAuthors[p.title][1].append(m)
+            if p.key in pubAuthors:
+                pubAuthors[p.key][1].append(m)
             else:
-                pubAuthors[p.title] = [p, [m]]
+                pubAuthors[p.key] = [p, [m]]
 
     #Prunes members from a papers author list if they are not a "current member". 
     #Being a current member at time of publication is defined as 8 years away from a member's first publication
@@ -87,8 +94,8 @@ if __name__ == '__main__':
         for p in m.pubs:
             if p.year - firstSelmerPub.year > 8:
                 break
-            if p.title in pubAuthors:
-                pubAuthors[p.title][1].remove(m) 
+            if p.key in pubAuthors:
+                pubAuthors[p.key][1].remove(m) 
 
     #Prunes publications with less than 2 current members as authors
     pubAuthors2 = {k: v for k, v in pubAuthors.items() if len(v[1]) > 1}
