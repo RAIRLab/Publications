@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,8 @@
 
 
 \refsection{1}
-  \datalist[entry]{none/global//global/global}
-    \entry{DBLP:journals/digitalsociety/NallurDBG23}{article}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:journals/digitalsociety/NallurDBG23}{article}{}{}
       \name{author}{4}{}{%
         {{hash=c3a5eb4ea6183a9edfcfb712a9283565}{%
            family={Nallur},
@@ -44,10 +44,12 @@
       }
       \strng{namehash}{6236972f34fedda47aa4a85fc353391d}
       \strng{fullhash}{71af5a44a06f5db831c390d42f416da2}
+      \strng{fullhashraw}{71af5a44a06f5db831c390d42f416da2}
       \strng{bibnamehash}{71af5a44a06f5db831c390d42f416da2}
       \strng{authorbibnamehash}{71af5a44a06f5db831c390d42f416da2}
       \strng{authornamehash}{6236972f34fedda47aa4a85fc353391d}
       \strng{authorfullhash}{71af5a44a06f5db831c390d42f416da2}
+      \strng{authorfullhashraw}{71af5a44a06f5db831c390d42f416da2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -68,7 +70,7 @@
       \verb https://doi.org/10.1007/s44206-023-00040-8
       \endverb
     \endentry
-    \entry{DBLP:journals/frai/BringsjordGGSOBC23}{article}{}
+    \entry{DBLP:journals/frai/BringsjordGGSOBC23}{article}{}{}
       \name{author}{7}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -108,10 +110,12 @@
       }
       \strng{namehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{fullhash}{0bbd944285ec6f9422e590d81acedb65}
+      \strng{fullhashraw}{0bbd944285ec6f9422e590d81acedb65}
       \strng{bibnamehash}{0bbd944285ec6f9422e590d81acedb65}
       \strng{authorbibnamehash}{0bbd944285ec6f9422e590d81acedb65}
       \strng{authornamehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{authorfullhash}{0bbd944285ec6f9422e590d81acedb65}
+      \strng{authorfullhashraw}{0bbd944285ec6f9422e590d81acedb65}
       \field{extraname}{1}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
@@ -132,7 +136,7 @@
       \verb https://doi.org/10.3389/frai.2023.1144569
       \endverb
     \endentry
-    \entry{DBLP:conf/acii/BringsjordSGGOG23}{inproceedings}{}
+    \entry{DBLP:conf/acii/BringsjordSGGOG23}{inproceedings}{}{}
       \name{author}{6}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -170,10 +174,12 @@
       }
       \strng{namehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{fullhash}{4d4016c650e61c5750e844078fe84a86}
+      \strng{fullhashraw}{4d4016c650e61c5750e844078fe84a86}
       \strng{bibnamehash}{4d4016c650e61c5750e844078fe84a86}
       \strng{authorbibnamehash}{4d4016c650e61c5750e844078fe84a86}
       \strng{authornamehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{authorfullhash}{4d4016c650e61c5750e844078fe84a86}
+      \strng{authorfullhashraw}{4d4016c650e61c5750e844078fe84a86}
       \field{extraname}{2}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
@@ -195,7 +201,7 @@
       \verb https://doi.org/10.1109/ACIIW59127.2023.10388202
       \endverb
     \endentry
-    \entry{DBLP:conf/agi/BringsjordOGRG23}{inproceedings}{}
+    \entry{DBLP:conf/agi/BringsjordOGRG23}{inproceedings}{}{}
       \name{author}{5}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -245,13 +251,16 @@
       }
       \strng{namehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{fullhash}{4ac1713697abd9cd154b45669f7d0666}
+      \strng{fullhashraw}{4ac1713697abd9cd154b45669f7d0666}
       \strng{bibnamehash}{4ac1713697abd9cd154b45669f7d0666}
       \strng{authorbibnamehash}{4ac1713697abd9cd154b45669f7d0666}
       \strng{authornamehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{authorfullhash}{4ac1713697abd9cd154b45669f7d0666}
+      \strng{authorfullhashraw}{4ac1713697abd9cd154b45669f7d0666}
       \strng{editorbibnamehash}{3f0443359b8aa107ac07308060eedfb9}
       \strng{editornamehash}{3f0443359b8aa107ac07308060eedfb9}
       \strng{editorfullhash}{3f0443359b8aa107ac07308060eedfb9}
+      \strng{editorfullhashraw}{3f0443359b8aa107ac07308060eedfb9}
       \field{extraname}{3}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
@@ -275,7 +284,7 @@
       \verb https://doi.org/10.1007/978-3-031-33469-6%5C_7
       \endverb
     \endentry
-    \entry{DBLP:journals/corr/abs-2311-10440}{inproceedings}{}
+    \entry{DBLP:journals/corr/abs-2311-10440}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{hash=2a07466d25847161d5fb32e6e74f933a}{%
            family={Oswald},
@@ -302,13 +311,16 @@
       }
       \strng{namehash}{7d10631ec34fc3c6b01e443aff52f908}
       \strng{fullhash}{7d10631ec34fc3c6b01e443aff52f908}
+      \strng{fullhashraw}{7d10631ec34fc3c6b01e443aff52f908}
       \strng{bibnamehash}{7d10631ec34fc3c6b01e443aff52f908}
       \strng{authorbibnamehash}{7d10631ec34fc3c6b01e443aff52f908}
       \strng{authornamehash}{7d10631ec34fc3c6b01e443aff52f908}
       \strng{authorfullhash}{7d10631ec34fc3c6b01e443aff52f908}
+      \strng{authorfullhashraw}{7d10631ec34fc3c6b01e443aff52f908}
       \strng{editorbibnamehash}{04288663b06d5acd76fc3a36f64ba87c}
       \strng{editornamehash}{04288663b06d5acd76fc3a36f64ba87c}
       \strng{editorfullhash}{04288663b06d5acd76fc3a36f64ba87c}
+      \strng{editorfullhashraw}{04288663b06d5acd76fc3a36f64ba87c}
       \field{sortinit}{6}
       \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
@@ -335,8 +347,8 @@
 \endrefsection
 
 \refsection{10}
-  \datalist[entry]{none/global//global/global}
-    \entry{DBLP:journals/cogsr/BringsjordGEML14}{article}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:journals/cogsr/BringsjordGEML14}{article}{}{}
       \name{author}{5}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -366,10 +378,12 @@
       }
       \strng{namehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{fullhash}{5ae3ef4b92335ff5670c99101cb53864}
+      \strng{fullhashraw}{5ae3ef4b92335ff5670c99101cb53864}
       \strng{bibnamehash}{5ae3ef4b92335ff5670c99101cb53864}
       \strng{authorbibnamehash}{5ae3ef4b92335ff5670c99101cb53864}
       \strng{authornamehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{authorfullhash}{5ae3ef4b92335ff5670c99101cb53864}
+      \strng{authorfullhashraw}{5ae3ef4b92335ff5670c99101cb53864}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -391,7 +405,7 @@
       \verb https://doi.org/10.1016/j.cogsys.2013.08.001
       \endverb
     \endentry
-    \entry{DBLP:conf/agi/GovindarajuluLB14}{inproceedings}{}
+    \entry{DBLP:conf/agi/GovindarajuluLB14}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=7ddffed1afe6eec305683c0cd819a6ee}{%
            family={Govindarajulu},
@@ -431,13 +445,16 @@
       }
       \strng{namehash}{36bf7ab0062f7f11320a71e5ed704844}
       \strng{fullhash}{36bf7ab0062f7f11320a71e5ed704844}
+      \strng{fullhashraw}{36bf7ab0062f7f11320a71e5ed704844}
       \strng{bibnamehash}{36bf7ab0062f7f11320a71e5ed704844}
       \strng{authorbibnamehash}{36bf7ab0062f7f11320a71e5ed704844}
       \strng{authornamehash}{36bf7ab0062f7f11320a71e5ed704844}
       \strng{authorfullhash}{36bf7ab0062f7f11320a71e5ed704844}
+      \strng{authorfullhashraw}{36bf7ab0062f7f11320a71e5ed704844}
       \strng{editorbibnamehash}{c47d057f85d7cc4ae169f1c5f42ff69c}
       \strng{editornamehash}{c47d057f85d7cc4ae169f1c5f42ff69c}
       \strng{editorfullhash}{c47d057f85d7cc4ae169f1c5f42ff69c}
+      \strng{editorfullhashraw}{c47d057f85d7cc4ae169f1c5f42ff69c}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -460,7 +477,7 @@
       \verb https://doi.org/10.1007/978-3-319-09274-4%5C_22
       \endverb
     \endentry
-    \entry{DBLP:conf/aic/LicatoSB14}{inproceedings}{}
+    \entry{DBLP:conf/aic/LicatoSB14}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=99dc5ee748204de80b7494028bb61bd9}{%
            family={Licato},
@@ -500,13 +517,16 @@
       }
       \strng{namehash}{0e3d8fe1693db35ba6098f60ec6006ed}
       \strng{fullhash}{0e3d8fe1693db35ba6098f60ec6006ed}
+      \strng{fullhashraw}{0e3d8fe1693db35ba6098f60ec6006ed}
       \strng{bibnamehash}{0e3d8fe1693db35ba6098f60ec6006ed}
       \strng{authorbibnamehash}{0e3d8fe1693db35ba6098f60ec6006ed}
       \strng{authornamehash}{0e3d8fe1693db35ba6098f60ec6006ed}
       \strng{authorfullhash}{0e3d8fe1693db35ba6098f60ec6006ed}
+      \strng{authorfullhashraw}{0e3d8fe1693db35ba6098f60ec6006ed}
       \strng{editorbibnamehash}{5b5249f16928e7567893a957c549fc69}
       \strng{editornamehash}{5b5249f16928e7567893a957c549fc69}
       \strng{editorfullhash}{5b5249f16928e7567893a957c549fc69}
+      \strng{editorfullhashraw}{5b5249f16928e7567893a957c549fc69}
       \field{extraname}{1}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
@@ -527,7 +547,7 @@
       \verb https://ceur-ws.org/Vol-1315/paper2.pdf
       \endverb
     \endentry
-    \entry{DBLP:conf/cogsci/LicatoSB14}{inproceedings}{}
+    \entry{DBLP:conf/cogsci/LicatoSB14}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=99dc5ee748204de80b7494028bb61bd9}{%
            family={Licato},
@@ -572,13 +592,16 @@
       }
       \strng{namehash}{0e3d8fe1693db35ba6098f60ec6006ed}
       \strng{fullhash}{0e3d8fe1693db35ba6098f60ec6006ed}
+      \strng{fullhashraw}{0e3d8fe1693db35ba6098f60ec6006ed}
       \strng{bibnamehash}{0e3d8fe1693db35ba6098f60ec6006ed}
       \strng{authorbibnamehash}{0e3d8fe1693db35ba6098f60ec6006ed}
       \strng{authornamehash}{0e3d8fe1693db35ba6098f60ec6006ed}
       \strng{authorfullhash}{0e3d8fe1693db35ba6098f60ec6006ed}
+      \strng{authorfullhashraw}{0e3d8fe1693db35ba6098f60ec6006ed}
       \strng{editorbibnamehash}{ff7646556865fbd0ce4c21f11d510dae}
       \strng{editornamehash}{3fef34068af40ddb50e41a1525e88455}
       \strng{editorfullhash}{ff7646556865fbd0ce4c21f11d510dae}
+      \strng{editorfullhashraw}{ff7646556865fbd0ce4c21f11d510dae}
       \field{extraname}{2}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
@@ -595,7 +618,7 @@
       \verb https://escholarship.org/uc/item/22b5d550
       \endverb
     \endentry
-    \entry{DBLP:conf/ijcnn/LicatoSB14}{inproceedings}{}
+    \entry{DBLP:conf/ijcnn/LicatoSB14}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=99dc5ee748204de80b7494028bb61bd9}{%
            family={Licato},
@@ -618,10 +641,12 @@
       }
       \strng{namehash}{0e3d8fe1693db35ba6098f60ec6006ed}
       \strng{fullhash}{0e3d8fe1693db35ba6098f60ec6006ed}
+      \strng{fullhashraw}{0e3d8fe1693db35ba6098f60ec6006ed}
       \strng{bibnamehash}{0e3d8fe1693db35ba6098f60ec6006ed}
       \strng{authorbibnamehash}{0e3d8fe1693db35ba6098f60ec6006ed}
       \strng{authornamehash}{0e3d8fe1693db35ba6098f60ec6006ed}
       \strng{authorfullhash}{0e3d8fe1693db35ba6098f60ec6006ed}
+      \strng{authorfullhashraw}{0e3d8fe1693db35ba6098f60ec6006ed}
       \field{extraname}{3}
       \field{sortinit}{6}
       \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
@@ -647,8 +672,8 @@
 \endrefsection
 
 \refsection{11}
-  \datalist[entry]{none/global//global/global}
-    \entry{DBLP:conf/ijcai/LicatoGBPG13}{inproceedings}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:conf/ijcai/LicatoGBPG13}{inproceedings}{}{}
       \name{author}{5}{}{%
         {{hash=99dc5ee748204de80b7494028bb61bd9}{%
            family={Licato},
@@ -688,13 +713,16 @@
       }
       \strng{namehash}{333bdc3aeeff26e5bfd37ac2d8c51e47}
       \strng{fullhash}{c8a95f6d14a9172ee024122cd837f2fe}
+      \strng{fullhashraw}{c8a95f6d14a9172ee024122cd837f2fe}
       \strng{bibnamehash}{c8a95f6d14a9172ee024122cd837f2fe}
       \strng{authorbibnamehash}{c8a95f6d14a9172ee024122cd837f2fe}
       \strng{authornamehash}{333bdc3aeeff26e5bfd37ac2d8c51e47}
       \strng{authorfullhash}{c8a95f6d14a9172ee024122cd837f2fe}
+      \strng{authorfullhashraw}{c8a95f6d14a9172ee024122cd837f2fe}
       \strng{editorbibnamehash}{ed2fcdb25982e0ec1a0fa6af1490b33a}
       \strng{editornamehash}{ed2fcdb25982e0ec1a0fa6af1490b33a}
       \strng{editorfullhash}{ed2fcdb25982e0ec1a0fa6af1490b33a}
+      \strng{editorfullhashraw}{ed2fcdb25982e0ec1a0fa6af1490b33a}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -712,7 +740,7 @@
       \verb http://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6988
       \endverb
     \endentry
-    \entry{DBLP:conf/ptai/BringsjordG13}{inproceedings}{}
+    \entry{DBLP:conf/ptai/BringsjordG13}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -737,13 +765,16 @@
       }
       \strng{namehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{fullhash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
+      \strng{fullhashraw}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{bibnamehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{authorbibnamehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{authornamehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{authorfullhash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
+      \strng{authorfullhashraw}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{editorbibnamehash}{7345c509be779a76e6da0766d0999b99}
       \strng{editornamehash}{7345c509be779a76e6da0766d0999b99}
       \strng{editorfullhash}{7345c509be779a76e6da0766d0999b99}
+      \strng{editorfullhashraw}{7345c509be779a76e6da0766d0999b99}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -766,7 +797,7 @@
       \verb https://doi.org/10.1007/978-3-319-26485-1%5C_12
       \endverb
     \endentry
-    \entry{DBLP:conf/uc/GovindarajuluLB13}{inproceedings}{}
+    \entry{DBLP:conf/uc/GovindarajuluLB13}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=7ddffed1afe6eec305683c0cd819a6ee}{%
            family={Govindarajulu},
@@ -811,13 +842,16 @@
       }
       \strng{namehash}{36bf7ab0062f7f11320a71e5ed704844}
       \strng{fullhash}{36bf7ab0062f7f11320a71e5ed704844}
+      \strng{fullhashraw}{36bf7ab0062f7f11320a71e5ed704844}
       \strng{bibnamehash}{36bf7ab0062f7f11320a71e5ed704844}
       \strng{authorbibnamehash}{36bf7ab0062f7f11320a71e5ed704844}
       \strng{authornamehash}{36bf7ab0062f7f11320a71e5ed704844}
       \strng{authorfullhash}{36bf7ab0062f7f11320a71e5ed704844}
+      \strng{authorfullhashraw}{36bf7ab0062f7f11320a71e5ed704844}
       \strng{editorbibnamehash}{43d3d6d7527b48ecb0d478a45216ad6f}
       \strng{editornamehash}{11f4a5d4e75f7652512f69dda57ee574}
       \strng{editorfullhash}{43d3d6d7527b48ecb0d478a45216ad6f}
+      \strng{editorfullhashraw}{43d3d6d7527b48ecb0d478a45216ad6f}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -844,8 +878,8 @@
 \endrefsection
 
 \refsection{12}
-  \datalist[entry]{none/global//global/global}
-    \entry{DBLP:journals/ijuc/BringsjordGEY12}{article}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:journals/ijuc/BringsjordGEY12}{article}{}{}
       \name{author}{4}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -870,10 +904,12 @@
       }
       \strng{namehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{fullhash}{7cdddb6d5936b72ecc326a4c8fe30a75}
+      \strng{fullhashraw}{7cdddb6d5936b72ecc326a4c8fe30a75}
       \strng{bibnamehash}{7cdddb6d5936b72ecc326a4c8fe30a75}
       \strng{authorbibnamehash}{7cdddb6d5936b72ecc326a4c8fe30a75}
       \strng{authornamehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{authorfullhash}{7cdddb6d5936b72ecc326a4c8fe30a75}
+      \strng{authorfullhashraw}{7cdddb6d5936b72ecc326a4c8fe30a75}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -893,7 +929,7 @@
       \verb http://www.oldcitypublishing.com/journals/ijuc-home/ijuc-issue-contents/ijuc-volume-8-number-1-2012/ijuc-8-1-p-3-32/
       \endverb
     \endentry
-    \entry{DBLP:journals/ppl/GovindarajuluB12}{article}{}
+    \entry{DBLP:journals/ppl/GovindarajuluB12}{article}{}{}
       \name{author}{2}{}{%
         {{hash=7ddffed1afe6eec305683c0cd819a6ee}{%
            family={Govindarajulu},
@@ -908,10 +944,12 @@
       }
       \strng{namehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{fullhash}{412f9b8d2604794a3df896a7082fd589}
+      \strng{fullhashraw}{412f9b8d2604794a3df896a7082fd589}
       \strng{bibnamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authorbibnamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authornamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authorfullhash}{412f9b8d2604794a3df896a7082fd589}
+      \strng{authorfullhashraw}{412f9b8d2604794a3df896a7082fd589}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -932,7 +970,7 @@
       \verb https://doi.org/10.1142/S0129626412400129
       \endverb
     \endentry
-    \entry{DBLP:journals/taffco/BringsjordC12}{article}{}
+    \entry{DBLP:journals/taffco/BringsjordC12}{article}{}{}
       \name{author}{2}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -947,10 +985,12 @@
       }
       \strng{namehash}{a650ae005ac7178d4a70b1dcef3d4533}
       \strng{fullhash}{a650ae005ac7178d4a70b1dcef3d4533}
+      \strng{fullhashraw}{a650ae005ac7178d4a70b1dcef3d4533}
       \strng{bibnamehash}{a650ae005ac7178d4a70b1dcef3d4533}
       \strng{authorbibnamehash}{a650ae005ac7178d4a70b1dcef3d4533}
       \strng{authornamehash}{a650ae005ac7178d4a70b1dcef3d4533}
       \strng{authorfullhash}{a650ae005ac7178d4a70b1dcef3d4533}
+      \strng{authorfullhashraw}{a650ae005ac7178d4a70b1dcef3d4533}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -977,8 +1017,8 @@
 \endrefsection
 
 \refsection{13}
-  \datalist[entry]{none/global//global/global}
-    \entry{DBLP:journals/jetai/ChapinSBS11}{article}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:journals/jetai/ChapinSBS11}{article}{}{}
       \name{author}{4}{}{%
         {{hash=98ba90d61f375886427e16358544b794}{%
            family={Chapin},
@@ -1003,10 +1043,12 @@
       }
       \strng{namehash}{cafff8406e16f43c4b680a590082a65f}
       \strng{fullhash}{61fcc3690b8a2ae0c11f44fc61c71864}
+      \strng{fullhashraw}{61fcc3690b8a2ae0c11f44fc61c71864}
       \strng{bibnamehash}{61fcc3690b8a2ae0c11f44fc61c71864}
       \strng{authorbibnamehash}{61fcc3690b8a2ae0c11f44fc61c71864}
       \strng{authornamehash}{cafff8406e16f43c4b680a590082a65f}
       \strng{authorfullhash}{61fcc3690b8a2ae0c11f44fc61c71864}
+      \strng{authorfullhashraw}{61fcc3690b8a2ae0c11f44fc61c71864}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1029,7 +1071,7 @@
       \verb https://doi.org/10.1080/0952813X.2010.502313
       \endverb
     \endentry
-    \entry{DBLP:conf/aaaifs/LicatoB11}{inproceedings}{}
+    \entry{DBLP:conf/aaaifs/LicatoB11}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{hash=99dc5ee748204de80b7494028bb61bd9}{%
            family={Licato},
@@ -1047,10 +1089,12 @@
       }
       \strng{namehash}{1e87c415a21779031959e0cc0e9c36a9}
       \strng{fullhash}{1e87c415a21779031959e0cc0e9c36a9}
+      \strng{fullhashraw}{1e87c415a21779031959e0cc0e9c36a9}
       \strng{bibnamehash}{1e87c415a21779031959e0cc0e9c36a9}
       \strng{authorbibnamehash}{1e87c415a21779031959e0cc0e9c36a9}
       \strng{authornamehash}{1e87c415a21779031959e0cc0e9c36a9}
       \strng{authorfullhash}{1e87c415a21779031959e0cc0e9c36a9}
+      \strng{authorfullhashraw}{1e87c415a21779031959e0cc0e9c36a9}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -1068,7 +1112,7 @@
       \verb http://www.aaai.org/ocs/index.php/FSS/FSS11/paper/view/4202
       \endverb
     \endentry
-    \entry{DBLP:conf/candc/BringsjordKTMABONRH11}{inproceedings}{}
+    \entry{DBLP:conf/candc/BringsjordKTMABONRH11}{inproceedings}{}{}
       \name{author}{10}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -1153,13 +1197,16 @@
       }
       \strng{namehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{fullhash}{fdf225fc13e8d5c8dd35635a0b0342e4}
+      \strng{fullhashraw}{fdf225fc13e8d5c8dd35635a0b0342e4}
       \strng{bibnamehash}{fdf225fc13e8d5c8dd35635a0b0342e4}
       \strng{authorbibnamehash}{fdf225fc13e8d5c8dd35635a0b0342e4}
       \strng{authornamehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{authorfullhash}{fdf225fc13e8d5c8dd35635a0b0342e4}
+      \strng{authorfullhashraw}{fdf225fc13e8d5c8dd35635a0b0342e4}
       \strng{editorbibnamehash}{1d4d6d5140d4dba865992981808d05ca}
       \strng{editornamehash}{7e90216ca91585a96d4558de3f19a379}
       \strng{editorfullhash}{1d4d6d5140d4dba865992981808d05ca}
+      \strng{editorfullhashraw}{1d4d6d5140d4dba865992981808d05ca}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -1180,7 +1227,7 @@
       \verb https://doi.org/10.1145/2069618.2069676
       \endverb
     \endentry
-    \entry{DBLP:series/sapere/BringsjordG13}{inproceedings}{}
+    \entry{DBLP:series/sapere/BringsjordG13}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -1205,13 +1252,16 @@
       }
       \strng{namehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{fullhash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
+      \strng{fullhashraw}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{bibnamehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{authorbibnamehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{authornamehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{authorfullhash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
+      \strng{authorfullhashraw}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{editorbibnamehash}{7345c509be779a76e6da0766d0999b99}
       \strng{editornamehash}{7345c509be779a76e6da0766d0999b99}
       \strng{editorfullhash}{7345c509be779a76e6da0766d0999b99}
+      \strng{editorfullhashraw}{7345c509be779a76e6da0766d0999b99}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
@@ -1238,8 +1288,8 @@
 \endrefsection
 
 \refsection{14}
-  \datalist[entry]{none/global//global/global}
-    \entry{DBLP:journals/ijuc/BringsjordG10}{article}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:journals/ijuc/BringsjordG10}{article}{}{}
       \name{author}{2}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -1254,10 +1304,12 @@
       }
       \strng{namehash}{22b494c986d523183538e5a55000a47a}
       \strng{fullhash}{22b494c986d523183538e5a55000a47a}
+      \strng{fullhashraw}{22b494c986d523183538e5a55000a47a}
       \strng{bibnamehash}{22b494c986d523183538e5a55000a47a}
       \strng{authorbibnamehash}{22b494c986d523183538e5a55000a47a}
       \strng{authornamehash}{22b494c986d523183538e5a55000a47a}
       \strng{authorfullhash}{22b494c986d523183538e5a55000a47a}
+      \strng{authorfullhashraw}{22b494c986d523183538e5a55000a47a}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1281,8 +1333,8 @@
 \endrefsection
 
 \refsection{15}
-  \datalist[entry]{none/global//global/global}
-    \entry{DBLP:journals/ai/ArkoudasB09}{article}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:journals/ai/ArkoudasB09}{article}{}{}
       \name{author}{2}{}{%
         {{hash=5f8d5ed34c44736e3c98135990fd7a31}{%
            family={Arkoudas},
@@ -1297,10 +1349,12 @@
       }
       \strng{namehash}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{fullhash}{9d65f50818bd2e6c76372f00b57d452e}
+      \strng{fullhashraw}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{bibnamehash}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{authorbibnamehash}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{authornamehash}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{authorfullhash}{9d65f50818bd2e6c76372f00b57d452e}
+      \strng{authorfullhashraw}{9d65f50818bd2e6c76372f00b57d452e}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1324,7 +1378,7 @@
       \verb https://doi.org/10.1016/j.artint.2009.06.002
       \endverb
     \endentry
-    \entry{DBLP:journals/ijsi/ArkoudasB09}{article}{}
+    \entry{DBLP:journals/ijsi/ArkoudasB09}{article}{}{}
       \name{author}{2}{}{%
         {{hash=5f8d5ed34c44736e3c98135990fd7a31}{%
            family={Arkoudas},
@@ -1339,10 +1393,12 @@
       }
       \strng{namehash}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{fullhash}{9d65f50818bd2e6c76372f00b57d452e}
+      \strng{fullhashraw}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{bibnamehash}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{authorbibnamehash}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{authornamehash}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{authorfullhash}{9d65f50818bd2e6c76372f00b57d452e}
+      \strng{authorfullhashraw}{9d65f50818bd2e6c76372f00b57d452e}
       \field{extraname}{2}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
@@ -1363,7 +1419,7 @@
       \verb http://www.ijsi.org/ch/reader/view%5C_abstract.aspx?file%5C_no=32%5C&%5C#38;flag=1
       \endverb
     \endentry
-    \entry{DBLP:conf/ic3k/ArkoudasBK09}{inproceedings}{}
+    \entry{DBLP:conf/ic3k/ArkoudasBK09}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=5f8d5ed34c44736e3c98135990fd7a31}{%
            family={Arkoudas},
@@ -1393,13 +1449,16 @@
       }
       \strng{namehash}{8a6c56392669cc14c2999201ca49c3ed}
       \strng{fullhash}{8a6c56392669cc14c2999201ca49c3ed}
+      \strng{fullhashraw}{8a6c56392669cc14c2999201ca49c3ed}
       \strng{bibnamehash}{8a6c56392669cc14c2999201ca49c3ed}
       \strng{authorbibnamehash}{8a6c56392669cc14c2999201ca49c3ed}
       \strng{authornamehash}{8a6c56392669cc14c2999201ca49c3ed}
       \strng{authorfullhash}{8a6c56392669cc14c2999201ca49c3ed}
+      \strng{authorfullhashraw}{8a6c56392669cc14c2999201ca49c3ed}
       \strng{editorbibnamehash}{afa49572b21f9dcab558ecd5e46f3217}
       \strng{editornamehash}{afa49572b21f9dcab558ecd5e46f3217}
       \strng{editorfullhash}{afa49572b21f9dcab558ecd5e46f3217}
+      \strng{editorfullhashraw}{afa49572b21f9dcab558ecd5e46f3217}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -1411,7 +1470,7 @@
       \field{pages}{80\bibrangedash 87}
       \range{pages}{8}
     \endentry
-    \entry{DBLP:journals/aim/BealBCCCDMSSSTWWW09}{article}{}
+    \entry{DBLP:journals/aim/BealBCCCDMSSSTWWW09}{article}{}{}
       \name{author}{14}{}{%
         {{hash=0ec0ea521a2f36d38a309d2c5c5d94dc}{%
            family={Beal},
@@ -1486,10 +1545,12 @@
       }
       \strng{namehash}{3475d1de5085b5e7956f882e3459bfea}
       \strng{fullhash}{1267c52d1783d16883151e5298e4a13e}
+      \strng{fullhashraw}{1267c52d1783d16883151e5298e4a13e}
       \strng{bibnamehash}{1267c52d1783d16883151e5298e4a13e}
       \strng{authorbibnamehash}{1267c52d1783d16883151e5298e4a13e}
       \strng{authornamehash}{3475d1de5085b5e7956f882e3459bfea}
       \strng{authorfullhash}{1267c52d1783d16883151e5298e4a13e}
+      \strng{authorfullhashraw}{1267c52d1783d16883151e5298e4a13e}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
@@ -1516,8 +1577,8 @@
 \endrefsection
 
 \refsection{16}
-  \datalist[entry]{none/global//global/global}
-    \entry{DBLP:conf/aaaifs/BringsjordS08}{inproceedings}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:conf/aaaifs/BringsjordS08}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -1535,10 +1596,12 @@
       }
       \strng{namehash}{50ada1a67ed1705c69863a9624fd2b60}
       \strng{fullhash}{50ada1a67ed1705c69863a9624fd2b60}
+      \strng{fullhashraw}{50ada1a67ed1705c69863a9624fd2b60}
       \strng{bibnamehash}{50ada1a67ed1705c69863a9624fd2b60}
       \strng{authorbibnamehash}{50ada1a67ed1705c69863a9624fd2b60}
       \strng{authornamehash}{50ada1a67ed1705c69863a9624fd2b60}
       \strng{authorfullhash}{50ada1a67ed1705c69863a9624fd2b60}
+      \strng{authorfullhashraw}{50ada1a67ed1705c69863a9624fd2b60}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1556,7 +1619,7 @@
       \verb http://www.aaai.org/Library/Symposia/Fall/2008/fs08-03-010.php
       \endverb
     \endentry
-    \entry{DBLP:conf/aaaifs/TaylorB08}{inproceedings}{}
+    \entry{DBLP:conf/aaaifs/TaylorB08}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{hash=822bf97fbf1b3a96e06bf140f0c06c7d}{%
            family={Taylor},
@@ -1574,10 +1637,12 @@
       }
       \strng{namehash}{56462491ea7fe9546d05167b57858737}
       \strng{fullhash}{56462491ea7fe9546d05167b57858737}
+      \strng{fullhashraw}{56462491ea7fe9546d05167b57858737}
       \strng{bibnamehash}{56462491ea7fe9546d05167b57858737}
       \strng{authorbibnamehash}{56462491ea7fe9546d05167b57858737}
       \strng{authornamehash}{56462491ea7fe9546d05167b57858737}
       \strng{authorfullhash}{56462491ea7fe9546d05167b57858737}
+      \strng{authorfullhashraw}{56462491ea7fe9546d05167b57858737}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -1597,7 +1662,7 @@
       \verb http://www.aaai.org/Library/Symposia/Fall/2008/fs08-03-009.php
       \endverb
     \endentry
-    \entry{DBLP:conf/agi/BringsjordSTWCCB08}{inproceedings}{}
+    \entry{DBLP:conf/agi/BringsjordSTWCCB08}{inproceedings}{}{}
       \name{author}{7}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -1657,13 +1722,16 @@
       }
       \strng{namehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{fullhash}{9a9e17e1c696be0c00dceef811941906}
+      \strng{fullhashraw}{9a9e17e1c696be0c00dceef811941906}
       \strng{bibnamehash}{9a9e17e1c696be0c00dceef811941906}
       \strng{authorbibnamehash}{9a9e17e1c696be0c00dceef811941906}
       \strng{authornamehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{authorfullhash}{9a9e17e1c696be0c00dceef811941906}
+      \strng{authorfullhashraw}{9a9e17e1c696be0c00dceef811941906}
       \strng{editorbibnamehash}{d3530a0de04df82cb0c5656eefcd4d3c}
       \strng{editornamehash}{d3530a0de04df82cb0c5656eefcd4d3c}
       \strng{editorfullhash}{d3530a0de04df82cb0c5656eefcd4d3c}
+      \strng{editorfullhashraw}{d3530a0de04df82cb0c5656eefcd4d3c}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -1683,7 +1751,7 @@
       \verb http://www.booksonline.iospress.nl/Content/View.aspx?piid=8299
       \endverb
     \endentry
-    \entry{DBLP:conf/pricai/ArkoudasB08}{inproceedings}{}
+    \entry{DBLP:conf/pricai/ArkoudasB08}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{hash=5f8d5ed34c44736e3c98135990fd7a31}{%
            family={Arkoudas},
@@ -1713,13 +1781,16 @@
       }
       \strng{namehash}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{fullhash}{9d65f50818bd2e6c76372f00b57d452e}
+      \strng{fullhashraw}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{bibnamehash}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{authorbibnamehash}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{authornamehash}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{authorfullhash}{9d65f50818bd2e6c76372f00b57d452e}
+      \strng{authorfullhashraw}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{editorbibnamehash}{fea08825f50376640b500e6a0c6a5c7e}
       \strng{editornamehash}{fea08825f50376640b500e6a0c6a5c7e}
       \strng{editorfullhash}{fea08825f50376640b500e6a0c6a5c7e}
+      \strng{editorfullhashraw}{fea08825f50376640b500e6a0c6a5c7e}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
@@ -1746,8 +1817,8 @@
 \endrefsection
 
 \refsection{17}
-  \datalist[entry]{none/global//global/global}
-    \entry{DBLP:journals/mima/ArkoudasB07}{article}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:journals/mima/ArkoudasB07}{article}{}{}
       \name{author}{2}{}{%
         {{hash=5f8d5ed34c44736e3c98135990fd7a31}{%
            family={Arkoudas},
@@ -1762,10 +1833,12 @@
       }
       \strng{namehash}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{fullhash}{9d65f50818bd2e6c76372f00b57d452e}
+      \strng{fullhashraw}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{bibnamehash}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{authorbibnamehash}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{authornamehash}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{authorfullhash}{9d65f50818bd2e6c76372f00b57d452e}
+      \strng{authorfullhashraw}{9d65f50818bd2e6c76372f00b57d452e}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1788,7 +1861,7 @@
       \verb https://doi.org/10.1007/s11023-007-9063-5
       \endverb
     \endentry
-    \entry{DBLP:conf/aaaiss/BringsjordACSTSY07}{inproceedings}{}
+    \entry{DBLP:conf/aaaiss/BringsjordACSTSY07}{inproceedings}{}{}
       \name{author}{7}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -1831,10 +1904,12 @@
       }
       \strng{namehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{fullhash}{96ded969b2d81b1c0041b4aee6a60c98}
+      \strng{fullhashraw}{96ded969b2d81b1c0041b4aee6a60c98}
       \strng{bibnamehash}{96ded969b2d81b1c0041b4aee6a60c98}
       \strng{authorbibnamehash}{96ded969b2d81b1c0041b4aee6a60c98}
       \strng{authornamehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{authorfullhash}{96ded969b2d81b1c0041b4aee6a60c98}
+      \strng{authorfullhashraw}{96ded969b2d81b1c0041b4aee6a60c98}
       \field{extraname}{1}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
@@ -1853,7 +1928,7 @@
       \verb http://www.aaai.org/Library/Symposia/Spring/2007/ss07-06-005.php
       \endverb
     \endentry
-    \entry{DBLP:conf/er/TaylorSB07}{inproceedings}{}
+    \entry{DBLP:conf/er/TaylorSB07}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=822bf97fbf1b3a96e06bf140f0c06c7d}{%
            family={Taylor},
@@ -1958,13 +2033,16 @@
       }
       \strng{namehash}{9e3d99af8c7119a525b15d9d3d0607de}
       \strng{fullhash}{9e3d99af8c7119a525b15d9d3d0607de}
+      \strng{fullhashraw}{9e3d99af8c7119a525b15d9d3d0607de}
       \strng{bibnamehash}{9e3d99af8c7119a525b15d9d3d0607de}
       \strng{authorbibnamehash}{9e3d99af8c7119a525b15d9d3d0607de}
       \strng{authornamehash}{9e3d99af8c7119a525b15d9d3d0607de}
       \strng{authorfullhash}{9e3d99af8c7119a525b15d9d3d0607de}
+      \strng{authorfullhashraw}{9e3d99af8c7119a525b15d9d3d0607de}
       \strng{editorbibnamehash}{8bdd583faafb976020c81f221a91c1da}
       \strng{editornamehash}{47eeb2e255e3104bf3cb9eea664c86fd}
       \strng{editorfullhash}{8bdd583faafb976020c81f221a91c1da}
+      \strng{editorfullhashraw}{8bdd583faafb976020c81f221a91c1da}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -1987,7 +2065,7 @@
       \verb https://doi.org/10.1007/978-3-540-76292-8%5C_21
       \endverb
     \endentry
-    \entry{DBLP:conf/icai/BringsjordAMSTCB07}{inproceedings}{}
+    \entry{DBLP:conf/icai/BringsjordAMSTCB07}{inproceedings}{}{}
       \name{author}{7}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -2047,13 +2125,16 @@
       }
       \strng{namehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{fullhash}{2298f7a769f00650a57d9065a4d2cadd}
+      \strng{fullhashraw}{2298f7a769f00650a57d9065a4d2cadd}
       \strng{bibnamehash}{2298f7a769f00650a57d9065a4d2cadd}
       \strng{authorbibnamehash}{2298f7a769f00650a57d9065a4d2cadd}
       \strng{authornamehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{authorfullhash}{2298f7a769f00650a57d9065a4d2cadd}
+      \strng{authorfullhashraw}{2298f7a769f00650a57d9065a4d2cadd}
       \strng{editorbibnamehash}{b7589b6abec91f3aabab6f5eb896f901}
       \strng{editornamehash}{b7589b6abec91f3aabab6f5eb896f901}
       \strng{editorfullhash}{b7589b6abec91f3aabab6f5eb896f901}
+      \strng{editorfullhashraw}{b7589b6abec91f3aabab6f5eb896f901}
       \field{extraname}{2}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
@@ -2066,7 +2147,7 @@
       \field{pages}{43\bibrangedash 49}
       \range{pages}{7}
     \endentry
-    \entry{DBLP:conf/oic/ShillidayTCB07}{inproceedings}{}
+    \entry{DBLP:conf/oic/ShillidayTCB07}{inproceedings}{}{}
       \name{author}{4}{}{%
         {{hash=787fe640f3b471de287b7d69f66c023f}{%
            family={Shilliday},
@@ -2111,13 +2192,16 @@
       }
       \strng{namehash}{40635e3593a01b8b3dcd2d680cdd2ef2}
       \strng{fullhash}{1842011e071c91264855523308846f7b}
+      \strng{fullhashraw}{1842011e071c91264855523308846f7b}
       \strng{bibnamehash}{1842011e071c91264855523308846f7b}
       \strng{authorbibnamehash}{1842011e071c91264855523308846f7b}
       \strng{authornamehash}{40635e3593a01b8b3dcd2d680cdd2ef2}
       \strng{authorfullhash}{1842011e071c91264855523308846f7b}
+      \strng{authorfullhashraw}{1842011e071c91264855523308846f7b}
       \strng{editorbibnamehash}{781f3e9b9c627de99dcca20b5ac26f6b}
       \strng{editornamehash}{781f3e9b9c627de99dcca20b5ac26f6b}
       \strng{editorfullhash}{781f3e9b9c627de99dcca20b5ac26f6b}
+      \strng{editorfullhashraw}{781f3e9b9c627de99dcca20b5ac26f6b}
       \field{sortinit}{6}
       \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
@@ -2144,8 +2228,8 @@
 \endrefsection
 
 \refsection{18}
-  \datalist[entry]{none/global//global/global}
-    \entry{DBLP:journals/amc/BringsjordKSTHYBR06}{article}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:journals/amc/BringsjordKSTHYBR06}{article}{}{}
       \name{author}{8}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -2192,10 +2276,12 @@
       }
       \strng{namehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{fullhash}{fa89c49ade65504830335b217c9df5ee}
+      \strng{fullhashraw}{fa89c49ade65504830335b217c9df5ee}
       \strng{bibnamehash}{fa89c49ade65504830335b217c9df5ee}
       \strng{authorbibnamehash}{fa89c49ade65504830335b217c9df5ee}
       \strng{authornamehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{authorfullhash}{fa89c49ade65504830335b217c9df5ee}
+      \strng{authorfullhashraw}{fa89c49ade65504830335b217c9df5ee}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -2218,7 +2304,7 @@
       \verb https://doi.org/10.1016/j.amc.2005.09.071
       \endverb
     \endentry
-    \entry{DBLP:journals/expert/BringsjordAB06}{article}{}
+    \entry{DBLP:journals/expert/BringsjordAB06}{article}{}{}
       \name{author}{3}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -2238,10 +2324,12 @@
       }
       \strng{namehash}{815cf0580ea94130f805e8ce6fa4b868}
       \strng{fullhash}{815cf0580ea94130f805e8ce6fa4b868}
+      \strng{fullhashraw}{815cf0580ea94130f805e8ce6fa4b868}
       \strng{bibnamehash}{815cf0580ea94130f805e8ce6fa4b868}
       \strng{authorbibnamehash}{815cf0580ea94130f805e8ce6fa4b868}
       \strng{authornamehash}{815cf0580ea94130f805e8ce6fa4b868}
       \strng{authorfullhash}{815cf0580ea94130f805e8ce6fa4b868}
+      \strng{authorfullhashraw}{815cf0580ea94130f805e8ce6fa4b868}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -2264,7 +2352,7 @@
       \verb https://doi.org/10.1109/MIS.2006.82
       \endverb
     \endentry
-    \entry{DBLP:journals/jetai/YangBB06}{article}{}
+    \entry{DBLP:journals/jetai/YangBB06}{article}{}{}
       \name{author}{3}{}{%
         {{hash=dc3846950862a60bfb7dec07be30012a}{%
            family={Yang},
@@ -2284,10 +2372,12 @@
       }
       \strng{namehash}{8444fb97cca68587cee5e4434d122283}
       \strng{fullhash}{8444fb97cca68587cee5e4434d122283}
+      \strng{fullhashraw}{8444fb97cca68587cee5e4434d122283}
       \strng{bibnamehash}{8444fb97cca68587cee5e4434d122283}
       \strng{authorbibnamehash}{8444fb97cca68587cee5e4434d122283}
       \strng{authornamehash}{8444fb97cca68587cee5e4434d122283}
       \strng{authorfullhash}{8444fb97cca68587cee5e4434d122283}
+      \strng{authorfullhashraw}{8444fb97cca68587cee5e4434d122283}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -2310,7 +2400,7 @@
       \verb https://doi.org/10.1080/09528130600558125
       \endverb
     \endentry
-    \entry{DBLP:conf/aaaiss/BringsjordC06}{inproceedings}{}
+    \entry{DBLP:conf/aaaiss/BringsjordC06}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -2328,10 +2418,12 @@
       }
       \strng{namehash}{54ce923e36fecb8af5bc2194dfef27ae}
       \strng{fullhash}{54ce923e36fecb8af5bc2194dfef27ae}
+      \strng{fullhashraw}{54ce923e36fecb8af5bc2194dfef27ae}
       \strng{bibnamehash}{54ce923e36fecb8af5bc2194dfef27ae}
       \strng{authorbibnamehash}{54ce923e36fecb8af5bc2194dfef27ae}
       \strng{authornamehash}{54ce923e36fecb8af5bc2194dfef27ae}
       \strng{authorfullhash}{54ce923e36fecb8af5bc2194dfef27ae}
+      \strng{authorfullhashraw}{54ce923e36fecb8af5bc2194dfef27ae}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
@@ -2353,8 +2445,8 @@
 \endrefsection
 
 \refsection{19}
-  \datalist[entry]{none/global//global/global}
-    \entry{DBLP:journals/tcs/BringsjordA04}{article}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:journals/tcs/BringsjordA04}{article}{}{}
       \name{author}{2}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -2369,10 +2461,12 @@
       }
       \strng{namehash}{790555ffbc823820e1d1a28eddfd5f77}
       \strng{fullhash}{790555ffbc823820e1d1a28eddfd5f77}
+      \strng{fullhashraw}{790555ffbc823820e1d1a28eddfd5f77}
       \strng{bibnamehash}{790555ffbc823820e1d1a28eddfd5f77}
       \strng{authorbibnamehash}{790555ffbc823820e1d1a28eddfd5f77}
       \strng{authornamehash}{790555ffbc823820e1d1a28eddfd5f77}
       \strng{authorfullhash}{790555ffbc823820e1d1a28eddfd5f77}
+      \strng{authorfullhashraw}{790555ffbc823820e1d1a28eddfd5f77}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -2395,7 +2489,7 @@
       \verb https://doi.org/10.1016/j.tcs.2003.12.010
       \endverb
     \endentry
-    \entry{DBLP:conf/aaaifs/BringsjordS04}{inproceedings}{}
+    \entry{DBLP:conf/aaaifs/BringsjordS04}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -2413,10 +2507,12 @@
       }
       \strng{namehash}{1089ffe504fef6fad5264115fe5b8b59}
       \strng{fullhash}{1089ffe504fef6fad5264115fe5b8b59}
+      \strng{fullhashraw}{1089ffe504fef6fad5264115fe5b8b59}
       \strng{bibnamehash}{1089ffe504fef6fad5264115fe5b8b59}
       \strng{authorbibnamehash}{1089ffe504fef6fad5264115fe5b8b59}
       \strng{authornamehash}{1089ffe504fef6fad5264115fe5b8b59}
       \strng{authorfullhash}{1089ffe504fef6fad5264115fe5b8b59}
+      \strng{authorfullhashraw}{1089ffe504fef6fad5264115fe5b8b59}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -2435,7 +2531,7 @@
       \verb https://www.aaai.org/Library/Symposia/Fall/2004/fs04-01-002.php
       \endverb
     \endentry
-    \entry{DBLP:conf/clima/ArkoudasB04}{inproceedings}{}
+    \entry{DBLP:conf/clima/ArkoudasB04}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{hash=5f8d5ed34c44736e3c98135990fd7a31}{%
            family={Arkoudas},
@@ -2465,13 +2561,16 @@
       }
       \strng{namehash}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{fullhash}{9d65f50818bd2e6c76372f00b57d452e}
+      \strng{fullhashraw}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{bibnamehash}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{authorbibnamehash}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{authornamehash}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{authorfullhash}{9d65f50818bd2e6c76372f00b57d452e}
+      \strng{authorfullhashraw}{9d65f50818bd2e6c76372f00b57d452e}
       \strng{editorbibnamehash}{9444e90e5181aebcdbf9aecf61c9992c}
       \strng{editornamehash}{9444e90e5181aebcdbf9aecf61c9992c}
       \strng{editorfullhash}{9444e90e5181aebcdbf9aecf61c9992c}
+      \strng{editorfullhashraw}{9444e90e5181aebcdbf9aecf61c9992c}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -2494,7 +2593,7 @@
       \verb https://doi.org/10.1007/11533092%5C_7
       \endverb
     \endentry
-    \entry{DBLP:journals/corr/cs-CC-0406056}{article}{}
+    \entry{DBLP:journals/corr/cs-CC-0406056}{article}{}{}
       \name{author}{2}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -2509,10 +2608,12 @@
       }
       \strng{namehash}{c1ca766b949ab380e538867ece78e78e}
       \strng{fullhash}{c1ca766b949ab380e538867ece78e78e}
+      \strng{fullhashraw}{c1ca766b949ab380e538867ece78e78e}
       \strng{bibnamehash}{c1ca766b949ab380e538867ece78e78e}
       \strng{authorbibnamehash}{c1ca766b949ab380e538867ece78e78e}
       \strng{authornamehash}{c1ca766b949ab380e538867ece78e78e}
       \strng{authorfullhash}{c1ca766b949ab380e538867ece78e78e}
+      \strng{authorfullhashraw}{c1ca766b949ab380e538867ece78e78e}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
@@ -2533,8 +2634,8 @@
 \endrefsection
 
 \refsection{2}
-  \datalist[entry]{none/global//global/global}
-    \entry{DBLP:conf/agi/BringsjordGSOGA22}{inproceedings}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:conf/agi/BringsjordGSOGA22}{inproceedings}{}{}
       \name{author}{8}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -2593,24 +2694,27 @@
            familyi={P\bibinitperiod},
            given={Alexey},
            giveni={A\bibinitperiod}}}%
-        {{hash=a75215d62cae742be296a46a2c397a30}{%
+        {{hash=26e2b603513242370aeee84e81557c96}{%
            family={Ponomaryov},
            familyi={P\bibinitperiod},
-           given={Denis},
-           giveni={D\bibinitperiod}}}%
+           given={Denis\bibnamedelima K.},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Springer}%
       }
       \strng{namehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{fullhash}{9e0d538457171f07c1dd971303f8c86b}
+      \strng{fullhashraw}{9e0d538457171f07c1dd971303f8c86b}
       \strng{bibnamehash}{9e0d538457171f07c1dd971303f8c86b}
       \strng{authorbibnamehash}{9e0d538457171f07c1dd971303f8c86b}
       \strng{authornamehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{authorfullhash}{9e0d538457171f07c1dd971303f8c86b}
-      \strng{editorbibnamehash}{87ebb2d893f4d1378e023a502d83ad17}
+      \strng{authorfullhashraw}{9e0d538457171f07c1dd971303f8c86b}
+      \strng{editorbibnamehash}{48d05d6d15ffbb3a4e213b6a2c1c1b22}
       \strng{editornamehash}{d2b1a795bebbb125aa7bcf266447f9c4}
-      \strng{editorfullhash}{87ebb2d893f4d1378e023a502d83ad17}
+      \strng{editorfullhash}{48d05d6d15ffbb3a4e213b6a2c1c1b22}
+      \strng{editorfullhashraw}{48d05d6d15ffbb3a4e213b6a2c1c1b22}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -2633,7 +2737,7 @@
       \verb https://doi.org/10.1007/978-3-031-19907-3%5C_17
       \endverb
     \endentry
-    \entry{DBLP:conf/agi/GiancolaBG22}{inproceedings}{}
+    \entry{DBLP:conf/agi/GiancolaBG22}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=7867d0e100739747706af9b7d8bcb1fd}{%
            family={Giancola},
@@ -2667,24 +2771,27 @@
            familyi={P\bibinitperiod},
            given={Alexey},
            giveni={A\bibinitperiod}}}%
-        {{hash=a75215d62cae742be296a46a2c397a30}{%
+        {{hash=26e2b603513242370aeee84e81557c96}{%
            family={Ponomaryov},
            familyi={P\bibinitperiod},
-           given={Denis},
-           giveni={D\bibinitperiod}}}%
+           given={Denis\bibnamedelima K.},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Springer}%
       }
       \strng{namehash}{0f0de6af730664e694b0ed469e143c0c}
       \strng{fullhash}{0f0de6af730664e694b0ed469e143c0c}
+      \strng{fullhashraw}{0f0de6af730664e694b0ed469e143c0c}
       \strng{bibnamehash}{0f0de6af730664e694b0ed469e143c0c}
       \strng{authorbibnamehash}{0f0de6af730664e694b0ed469e143c0c}
       \strng{authornamehash}{0f0de6af730664e694b0ed469e143c0c}
       \strng{authorfullhash}{0f0de6af730664e694b0ed469e143c0c}
-      \strng{editorbibnamehash}{87ebb2d893f4d1378e023a502d83ad17}
+      \strng{authorfullhashraw}{0f0de6af730664e694b0ed469e143c0c}
+      \strng{editorbibnamehash}{48d05d6d15ffbb3a4e213b6a2c1c1b22}
       \strng{editornamehash}{d2b1a795bebbb125aa7bcf266447f9c4}
-      \strng{editorfullhash}{87ebb2d893f4d1378e023a502d83ad17}
+      \strng{editorfullhash}{48d05d6d15ffbb3a4e213b6a2c1c1b22}
+      \strng{editorfullhashraw}{48d05d6d15ffbb3a4e213b6a2c1c1b22}
       \field{extraname}{1}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
@@ -2708,7 +2815,7 @@
       \verb https://doi.org/10.1007/978-3-031-19907-3%5C_21
       \endverb
     \endentry
-    \entry{DBLP:conf/flairs/BanerjeeBGG22}{inproceedings}{}
+    \entry{DBLP:conf/flairs/BanerjeeBGG22}{inproceedings}{}{}
       \name{author}{4}{}{%
         {{hash=dc988033fd0defe9621c15d4d95885b1}{%
            family={Banerjee},
@@ -2750,13 +2857,16 @@
       }
       \strng{namehash}{0dff57c3595777334677629bd0ee9134}
       \strng{fullhash}{6b35aa2a0bb9c5e040cf2de14ddacfae}
+      \strng{fullhashraw}{6b35aa2a0bb9c5e040cf2de14ddacfae}
       \strng{bibnamehash}{6b35aa2a0bb9c5e040cf2de14ddacfae}
       \strng{authorbibnamehash}{6b35aa2a0bb9c5e040cf2de14ddacfae}
       \strng{authornamehash}{0dff57c3595777334677629bd0ee9134}
       \strng{authorfullhash}{6b35aa2a0bb9c5e040cf2de14ddacfae}
+      \strng{authorfullhashraw}{6b35aa2a0bb9c5e040cf2de14ddacfae}
       \strng{editorbibnamehash}{faf4fe2302cdadb0a1a122a78dcddbba}
       \strng{editornamehash}{faf4fe2302cdadb0a1a122a78dcddbba}
       \strng{editorfullhash}{faf4fe2302cdadb0a1a122a78dcddbba}
+      \strng{editorfullhashraw}{faf4fe2302cdadb0a1a122a78dcddbba}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -2775,7 +2885,7 @@
       \verb https://doi.org/10.32473/flairs.v35i.130630
       \endverb
     \endentry
-    \entry{DBLP:conf/ijcai/GiancolaBG22}{inproceedings}{}
+    \entry{DBLP:conf/ijcai/GiancolaBG22}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=7867d0e100739747706af9b7d8bcb1fd}{%
            family={Giancola},
@@ -2825,13 +2935,16 @@
       }
       \strng{namehash}{0f0de6af730664e694b0ed469e143c0c}
       \strng{fullhash}{0f0de6af730664e694b0ed469e143c0c}
+      \strng{fullhashraw}{0f0de6af730664e694b0ed469e143c0c}
       \strng{bibnamehash}{0f0de6af730664e694b0ed469e143c0c}
       \strng{authorbibnamehash}{0f0de6af730664e694b0ed469e143c0c}
       \strng{authornamehash}{0f0de6af730664e694b0ed469e143c0c}
       \strng{authorfullhash}{0f0de6af730664e694b0ed469e143c0c}
+      \strng{authorfullhashraw}{0f0de6af730664e694b0ed469e143c0c}
       \strng{editorbibnamehash}{e3b4a9ae8a3019e5d1a69eaa315aabd1}
       \strng{editornamehash}{8f0525c96d3e5d98c4290b247db8cd8a}
       \strng{editorfullhash}{e3b4a9ae8a3019e5d1a69eaa315aabd1}
+      \strng{editorfullhashraw}{e3b4a9ae8a3019e5d1a69eaa315aabd1}
       \field{extraname}{2}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
@@ -2854,8 +2967,8 @@
 \endrefsection
 
 \refsection{20}
-  \datalist[entry]{none/global//global/global}
-    \entry{DBLP:journals/ets/BelloB03}{article}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:journals/ets/BelloB03}{article}{}{}
       \name{author}{2}{}{%
         {{hash=00f0c3b15f5486120590e299e65b7b8a}{%
            family={Bello},
@@ -2870,10 +2983,12 @@
       }
       \strng{namehash}{4a1bfef908b145b61a12d666b0ee47b9}
       \strng{fullhash}{4a1bfef908b145b61a12d666b0ee47b9}
+      \strng{fullhashraw}{4a1bfef908b145b61a12d666b0ee47b9}
       \strng{bibnamehash}{4a1bfef908b145b61a12d666b0ee47b9}
       \strng{authorbibnamehash}{4a1bfef908b145b61a12d666b0ee47b9}
       \strng{authornamehash}{4a1bfef908b145b61a12d666b0ee47b9}
       \strng{authorfullhash}{4a1bfef908b145b61a12d666b0ee47b9}
+      \strng{authorfullhashraw}{4a1bfef908b145b61a12d666b0ee47b9}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -2893,7 +3008,7 @@
       \verb https://www.j-ets.net/ETS/journals/6%5C_3/5.pdf
       \endverb
     \endentry
-    \entry{DBLP:conf/ijcai/BringsjordS03}{inproceedings}{}
+    \entry{DBLP:conf/ijcai/BringsjordS03}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -2923,13 +3038,16 @@
       }
       \strng{namehash}{1089ffe504fef6fad5264115fe5b8b59}
       \strng{fullhash}{1089ffe504fef6fad5264115fe5b8b59}
+      \strng{fullhashraw}{1089ffe504fef6fad5264115fe5b8b59}
       \strng{bibnamehash}{1089ffe504fef6fad5264115fe5b8b59}
       \strng{authorbibnamehash}{1089ffe504fef6fad5264115fe5b8b59}
       \strng{authornamehash}{1089ffe504fef6fad5264115fe5b8b59}
       \strng{authorfullhash}{1089ffe504fef6fad5264115fe5b8b59}
+      \strng{authorfullhashraw}{1089ffe504fef6fad5264115fe5b8b59}
       \strng{editorbibnamehash}{e69dc29e4c7a846cf3107d52baf54167}
       \strng{editornamehash}{e69dc29e4c7a846cf3107d52baf54167}
       \strng{editorfullhash}{e69dc29e4c7a846cf3107d52baf54167}
+      \strng{editorfullhashraw}{e69dc29e4c7a846cf3107d52baf54167}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -2951,8 +3069,8 @@
 \endrefsection
 
 \refsection{21}
-  \datalist[entry]{none/global//global/global}
-    \entry{DBLP:journals/mima/BringsjordBF01}{article}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:journals/mima/BringsjordBF01}{article}{}{}
       \name{author}{3}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -2972,10 +3090,12 @@
       }
       \strng{namehash}{bec21ec4c71aee690a0c059625b68684}
       \strng{fullhash}{bec21ec4c71aee690a0c059625b68684}
+      \strng{fullhashraw}{bec21ec4c71aee690a0c059625b68684}
       \strng{bibnamehash}{bec21ec4c71aee690a0c059625b68684}
       \strng{authorbibnamehash}{bec21ec4c71aee690a0c059625b68684}
       \strng{authornamehash}{bec21ec4c71aee690a0c059625b68684}
       \strng{authorfullhash}{bec21ec4c71aee690a0c059625b68684}
+      \strng{authorfullhashraw}{bec21ec4c71aee690a0c059625b68684}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -3002,8 +3122,8 @@
 \endrefsection
 
 \refsection{3}
-  \datalist[entry]{none/global//global/global}
-    \entry{DBLP:journals/paladyn/BringsjordGG21}{article}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:journals/paladyn/BringsjordGG21}{article}{}{}
       \name{author}{3}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -3023,10 +3143,12 @@
       }
       \strng{namehash}{59e311676d14bbeb9b2e9b99a8fe0745}
       \strng{fullhash}{59e311676d14bbeb9b2e9b99a8fe0745}
+      \strng{fullhashraw}{59e311676d14bbeb9b2e9b99a8fe0745}
       \strng{bibnamehash}{59e311676d14bbeb9b2e9b99a8fe0745}
       \strng{authorbibnamehash}{59e311676d14bbeb9b2e9b99a8fe0745}
       \strng{authornamehash}{59e311676d14bbeb9b2e9b99a8fe0745}
       \strng{authorfullhash}{59e311676d14bbeb9b2e9b99a8fe0745}
+      \strng{authorfullhashraw}{59e311676d14bbeb9b2e9b99a8fe0745}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -3050,7 +3172,7 @@
       \verb https://doi.org/10.1515/pjbr-2021-0009
       \endverb
     \endentry
-    \entry{DBLP:journals/tplp/BringsjordG21}{article}{}
+    \entry{DBLP:journals/tplp/BringsjordG21}{article}{}{}
       \name{author}{2}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -3065,10 +3187,12 @@
       }
       \strng{namehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{fullhash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
+      \strng{fullhashraw}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{bibnamehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{authorbibnamehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{authornamehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{authorfullhash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
+      \strng{authorfullhashraw}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -3091,7 +3215,7 @@
       \verb https://doi.org/10.1017/S1471068420000071
       \endverb
     \endentry
-    \entry{DBLP:journals/corr/abs-2102-09343}{article}{}
+    \entry{DBLP:journals/corr/abs-2102-09343}{article}{}{}
       \name{author}{3}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -3111,10 +3235,12 @@
       }
       \strng{namehash}{59e311676d14bbeb9b2e9b99a8fe0745}
       \strng{fullhash}{59e311676d14bbeb9b2e9b99a8fe0745}
+      \strng{fullhashraw}{59e311676d14bbeb9b2e9b99a8fe0745}
       \strng{bibnamehash}{59e311676d14bbeb9b2e9b99a8fe0745}
       \strng{authorbibnamehash}{59e311676d14bbeb9b2e9b99a8fe0745}
       \strng{authornamehash}{59e311676d14bbeb9b2e9b99a8fe0745}
       \strng{authorfullhash}{59e311676d14bbeb9b2e9b99a8fe0745}
+      \strng{authorfullhashraw}{59e311676d14bbeb9b2e9b99a8fe0745}
       \field{extraname}{2}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
@@ -3140,8 +3266,8 @@
 \endrefsection
 
 \refsection{4}
-  \datalist[entry]{none/global//global/global}
-    \entry{DBLP:journals/cogsci/BringsjordG20}{article}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:journals/cogsci/BringsjordG20}{article}{}{}
       \name{author}{2}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -3156,10 +3282,12 @@
       }
       \strng{namehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{fullhash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
+      \strng{fullhashraw}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{bibnamehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{authorbibnamehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{authornamehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{authorfullhash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
+      \strng{authorfullhashraw}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -3180,7 +3308,7 @@
       \verb https://doi.org/10.1111/cogs.12898
       \endverb
     \endentry
-    \entry{DBLP:journals/jaic/BringsjordG20}{article}{}
+    \entry{DBLP:journals/jaic/BringsjordG20}{article}{}{}
       \name{author}{2}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -3195,10 +3323,12 @@
       }
       \strng{namehash}{22b494c986d523183538e5a55000a47a}
       \strng{fullhash}{22b494c986d523183538e5a55000a47a}
+      \strng{fullhashraw}{22b494c986d523183538e5a55000a47a}
       \strng{bibnamehash}{22b494c986d523183538e5a55000a47a}
       \strng{authorbibnamehash}{22b494c986d523183538e5a55000a47a}
       \strng{authornamehash}{22b494c986d523183538e5a55000a47a}
       \strng{authorfullhash}{22b494c986d523183538e5a55000a47a}
+      \strng{authorfullhashraw}{22b494c986d523183538e5a55000a47a}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -3221,7 +3351,7 @@
       \verb https://doi.org/10.1142/s2705078520500095
       \endverb
     \endentry
-    \entry{DBLP:conf/gcai/BringsjordGLG20}{inproceedings}{}
+    \entry{DBLP:conf/gcai/BringsjordGLG20}{inproceedings}{}{}
       \name{author}{4}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -3266,13 +3396,16 @@
       }
       \strng{namehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{fullhash}{2054c2ef9e0c1ece377d152b5ec1ef02}
+      \strng{fullhashraw}{2054c2ef9e0c1ece377d152b5ec1ef02}
       \strng{bibnamehash}{2054c2ef9e0c1ece377d152b5ec1ef02}
       \strng{authorbibnamehash}{2054c2ef9e0c1ece377d152b5ec1ef02}
       \strng{authornamehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{authorfullhash}{2054c2ef9e0c1ece377d152b5ec1ef02}
+      \strng{authorfullhashraw}{2054c2ef9e0c1ece377d152b5ec1ef02}
       \strng{editorbibnamehash}{bfbcc2e591aa904cb33bffcccd089879}
       \strng{editornamehash}{bfbcc2e591aa904cb33bffcccd089879}
       \strng{editorfullhash}{bfbcc2e591aa904cb33bffcccd089879}
+      \strng{editorfullhashraw}{bfbcc2e591aa904cb33bffcccd089879}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -3295,7 +3428,7 @@
       \verb https://doi.org/10.29007/ggcf
       \endverb
     \endentry
-    \entry{DBLP:conf/gcai/GiancolaBGL20}{inproceedings}{}
+    \entry{DBLP:conf/gcai/GiancolaBGL20}{inproceedings}{}{}
       \name{author}{4}{}{%
         {{hash=7867d0e100739747706af9b7d8bcb1fd}{%
            family={Giancola},
@@ -3340,13 +3473,16 @@
       }
       \strng{namehash}{a094b54fa8149d0df05a360228cae947}
       \strng{fullhash}{d188afc315bcf0037e8479be708dc3e9}
+      \strng{fullhashraw}{d188afc315bcf0037e8479be708dc3e9}
       \strng{bibnamehash}{d188afc315bcf0037e8479be708dc3e9}
       \strng{authorbibnamehash}{d188afc315bcf0037e8479be708dc3e9}
       \strng{authornamehash}{a094b54fa8149d0df05a360228cae947}
       \strng{authorfullhash}{d188afc315bcf0037e8479be708dc3e9}
+      \strng{authorfullhashraw}{d188afc315bcf0037e8479be708dc3e9}
       \strng{editorbibnamehash}{bfbcc2e591aa904cb33bffcccd089879}
       \strng{editornamehash}{bfbcc2e591aa904cb33bffcccd089879}
       \strng{editorfullhash}{bfbcc2e591aa904cb33bffcccd089879}
+      \strng{editorfullhashraw}{bfbcc2e591aa904cb33bffcccd089879}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
@@ -3369,7 +3505,7 @@
       \verb https://doi.org/10.29007/k647
       \endverb
     \endentry
-    \entry{DBLP:conf/robophilosophy/BringsjordGG20}{inproceedings}{}
+    \entry{DBLP:conf/robophilosophy/BringsjordGG20}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -3409,13 +3545,16 @@
       }
       \strng{namehash}{58147370f3b319355e8050561ff73baa}
       \strng{fullhash}{58147370f3b319355e8050561ff73baa}
+      \strng{fullhashraw}{58147370f3b319355e8050561ff73baa}
       \strng{bibnamehash}{58147370f3b319355e8050561ff73baa}
       \strng{authorbibnamehash}{58147370f3b319355e8050561ff73baa}
       \strng{authornamehash}{58147370f3b319355e8050561ff73baa}
       \strng{authorfullhash}{58147370f3b319355e8050561ff73baa}
+      \strng{authorfullhashraw}{58147370f3b319355e8050561ff73baa}
       \strng{editorbibnamehash}{98a2933b2e311687e5cf9004125dcd2d}
       \strng{editornamehash}{98a2933b2e311687e5cf9004125dcd2d}
       \strng{editorfullhash}{98a2933b2e311687e5cf9004125dcd2d}
+      \strng{editorfullhashraw}{98a2933b2e311687e5cf9004125dcd2d}
       \field{sortinit}{6}
       \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
@@ -3442,8 +3581,8 @@
 \endrefsection
 
 \refsection{5}
-  \datalist[entry]{none/global//global/global}
-    \entry{DBLP:conf/aaaiss/BringsjordG19}{inproceedings}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:conf/aaaiss/BringsjordG19}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -3488,13 +3627,16 @@
       }
       \strng{namehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{fullhash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
+      \strng{fullhashraw}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{bibnamehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{authorbibnamehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{authornamehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{authorfullhash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
+      \strng{authorfullhashraw}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{editorbibnamehash}{d1ff0ad2cf1d83583f68a47064be06fd}
       \strng{editornamehash}{21181ef1fa024a2cd453d3d6f519fd46}
       \strng{editorfullhash}{d1ff0ad2cf1d83583f68a47064be06fd}
+      \strng{editorfullhashraw}{d1ff0ad2cf1d83583f68a47064be06fd}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -3513,7 +3655,7 @@
       \verb https://ceur-ws.org/Vol-2287/paper26.pdf
       \endverb
     \endentry
-    \entry{DBLP:conf/aaaiss/GovindarajuluB19}{inproceedings}{}
+    \entry{DBLP:conf/aaaiss/GovindarajuluB19}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{hash=7ddffed1afe6eec305683c0cd819a6ee}{%
            family={Govindarajulu},
@@ -3558,13 +3700,16 @@
       }
       \strng{namehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{fullhash}{412f9b8d2604794a3df896a7082fd589}
+      \strng{fullhashraw}{412f9b8d2604794a3df896a7082fd589}
       \strng{bibnamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authorbibnamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authornamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authorfullhash}{412f9b8d2604794a3df896a7082fd589}
+      \strng{authorfullhashraw}{412f9b8d2604794a3df896a7082fd589}
       \strng{editorbibnamehash}{d1ff0ad2cf1d83583f68a47064be06fd}
       \strng{editornamehash}{21181ef1fa024a2cd453d3d6f519fd46}
       \strng{editorfullhash}{d1ff0ad2cf1d83583f68a47064be06fd}
+      \strng{editorfullhashraw}{d1ff0ad2cf1d83583f68a47064be06fd}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -3582,7 +3727,7 @@
       \verb https://ceur-ws.org/Vol-2287/paper27.pdf
       \endverb
     \endentry
-    \entry{DBLP:conf/aaaiss/GovindarajuluPB19}{inproceedings}{}
+    \entry{DBLP:conf/aaaiss/GovindarajuluPB19}{inproceedings}{}{}
       \name{author}{6}{}{%
         {{hash=7ddffed1afe6eec305683c0cd819a6ee}{%
            family={Govindarajulu},
@@ -3654,13 +3799,16 @@
       }
       \strng{namehash}{8d70882507369403ecc4d1cc9ae03c02}
       \strng{fullhash}{6b7a5f5cd99f49530680fd711495f726}
+      \strng{fullhashraw}{6b7a5f5cd99f49530680fd711495f726}
       \strng{bibnamehash}{6b7a5f5cd99f49530680fd711495f726}
       \strng{authorbibnamehash}{6b7a5f5cd99f49530680fd711495f726}
       \strng{authornamehash}{8d70882507369403ecc4d1cc9ae03c02}
       \strng{authorfullhash}{6b7a5f5cd99f49530680fd711495f726}
+      \strng{authorfullhashraw}{6b7a5f5cd99f49530680fd711495f726}
       \strng{editorbibnamehash}{9a3bd066ff06b68bcccad4b5fe68e24b}
       \strng{editornamehash}{ffcf6b7434deb96a8b1f315db100203d}
       \strng{editorfullhash}{9a3bd066ff06b68bcccad4b5fe68e24b}
+      \strng{editorfullhashraw}{9a3bd066ff06b68bcccad4b5fe68e24b}
       \field{extraname}{1}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
@@ -3679,7 +3827,7 @@
       \verb https://ceur-ws.org/Vol-2350/xposter4.pdf
       \endverb
     \endentry
-    \entry{DBLP:conf/aies/GovindarajuluBG19}{inproceedings}{}
+    \entry{DBLP:conf/aies/GovindarajuluBG19}{inproceedings}{}{}
       \name{author}{4}{}{%
         {{hash=7ddffed1afe6eec305683c0cd819a6ee}{%
            family={Govindarajulu},
@@ -3724,13 +3872,16 @@
       }
       \strng{namehash}{8d70882507369403ecc4d1cc9ae03c02}
       \strng{fullhash}{3e84ffbbabd55f8b0f8332cf83f2dce1}
+      \strng{fullhashraw}{3e84ffbbabd55f8b0f8332cf83f2dce1}
       \strng{bibnamehash}{3e84ffbbabd55f8b0f8332cf83f2dce1}
       \strng{authorbibnamehash}{3e84ffbbabd55f8b0f8332cf83f2dce1}
       \strng{authornamehash}{8d70882507369403ecc4d1cc9ae03c02}
       \strng{authorfullhash}{3e84ffbbabd55f8b0f8332cf83f2dce1}
+      \strng{authorfullhashraw}{3e84ffbbabd55f8b0f8332cf83f2dce1}
       \strng{editorbibnamehash}{eb52632b693ef3d3dde362da9c53fb54}
       \strng{editornamehash}{eb52632b693ef3d3dde362da9c53fb54}
       \strng{editorfullhash}{eb52632b693ef3d3dde362da9c53fb54}
+      \strng{editorfullhashraw}{eb52632b693ef3d3dde362da9c53fb54}
       \field{extraname}{2}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
@@ -3752,7 +3903,7 @@
       \verb https://doi.org/10.1145/3306618.3314256
       \endverb
     \endentry
-    \entry{DBLP:conf/cogsci/BringsjordGE19}{inproceedings}{}
+    \entry{DBLP:conf/cogsci/BringsjordGE19}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -3792,13 +3943,16 @@
       }
       \strng{namehash}{e2d65e677213d6642e68fc10cf2bf92e}
       \strng{fullhash}{e2d65e677213d6642e68fc10cf2bf92e}
+      \strng{fullhashraw}{e2d65e677213d6642e68fc10cf2bf92e}
       \strng{bibnamehash}{e2d65e677213d6642e68fc10cf2bf92e}
       \strng{authorbibnamehash}{e2d65e677213d6642e68fc10cf2bf92e}
       \strng{authornamehash}{e2d65e677213d6642e68fc10cf2bf92e}
       \strng{authorfullhash}{e2d65e677213d6642e68fc10cf2bf92e}
+      \strng{authorfullhashraw}{e2d65e677213d6642e68fc10cf2bf92e}
       \strng{editorbibnamehash}{6afa390790273c8471e4079e8148655b}
       \strng{editornamehash}{6afa390790273c8471e4079e8148655b}
       \strng{editorfullhash}{6afa390790273c8471e4079e8148655b}
+      \strng{editorfullhashraw}{6afa390790273c8471e4079e8148655b}
       \field{sortinit}{6}
       \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
@@ -3816,7 +3970,7 @@
       \verb https://mindmodeling.org/cogsci2019/papers/0022/index.html
       \endverb
     \endentry
-    \entry{DBLP:conf/cogsci/BringsjordGSE19}{inproceedings}{}
+    \entry{DBLP:conf/cogsci/BringsjordGSE19}{inproceedings}{}{}
       \name{author}{4}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -3861,13 +4015,16 @@
       }
       \strng{namehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{fullhash}{d33a3de41700d0b5a1652fc59acb6a11}
+      \strng{fullhashraw}{d33a3de41700d0b5a1652fc59acb6a11}
       \strng{bibnamehash}{d33a3de41700d0b5a1652fc59acb6a11}
       \strng{authorbibnamehash}{d33a3de41700d0b5a1652fc59acb6a11}
       \strng{authornamehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{authorfullhash}{d33a3de41700d0b5a1652fc59acb6a11}
+      \strng{authorfullhashraw}{d33a3de41700d0b5a1652fc59acb6a11}
       \strng{editorbibnamehash}{6afa390790273c8471e4079e8148655b}
       \strng{editornamehash}{6afa390790273c8471e4079e8148655b}
       \strng{editorfullhash}{6afa390790273c8471e4079e8148655b}
+      \strng{editorfullhashraw}{6afa390790273c8471e4079e8148655b}
       \field{sortinit}{7}
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
@@ -3885,7 +4042,7 @@
       \verb https://mindmodeling.org/cogsci2019/papers/0725/index.html
       \endverb
     \endentry
-    \entry{DBLP:journals/corr/abs-1912-12959}{inproceedings}{}
+    \entry{DBLP:journals/corr/abs-1912-12959}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=7ddffed1afe6eec305683c0cd819a6ee}{%
            family={Govindarajulu},
@@ -3917,13 +4074,16 @@
       }
       \strng{namehash}{66eaf3024a4bd56f84f30be9bd72763e}
       \strng{fullhash}{66eaf3024a4bd56f84f30be9bd72763e}
+      \strng{fullhashraw}{66eaf3024a4bd56f84f30be9bd72763e}
       \strng{bibnamehash}{66eaf3024a4bd56f84f30be9bd72763e}
       \strng{authorbibnamehash}{66eaf3024a4bd56f84f30be9bd72763e}
       \strng{authornamehash}{66eaf3024a4bd56f84f30be9bd72763e}
       \strng{authorfullhash}{66eaf3024a4bd56f84f30be9bd72763e}
+      \strng{authorfullhashraw}{66eaf3024a4bd56f84f30be9bd72763e}
       \strng{editorbibnamehash}{d7f0ba2076355f3f7709f3a83bb73e3c}
       \strng{editornamehash}{d7f0ba2076355f3f7709f3a83bb73e3c}
       \strng{editorfullhash}{d7f0ba2076355f3f7709f3a83bb73e3c}
+      \strng{editorfullhashraw}{d7f0ba2076355f3f7709f3a83bb73e3c}
       \field{sortinit}{8}
       \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
@@ -3946,7 +4106,7 @@
       \verb https://doi.org/10.4204/EPTCS.311.7
       \endverb
     \endentry
-    \entry{DBLP:journals/corr/abs-1903-03515}{article}{}
+    \entry{DBLP:journals/corr/abs-1903-03515}{article}{}{}
       \name{author}{2}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -3961,10 +4121,12 @@
       }
       \strng{namehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{fullhash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
+      \strng{fullhashraw}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{bibnamehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{authorbibnamehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{authornamehash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \strng{authorfullhash}{8eaf966470cf5ae9096c1ccd7c4a39e4}
+      \strng{authorfullhashraw}{8eaf966470cf5ae9096c1ccd7c4a39e4}
       \field{extraname}{2}
       \field{sortinit}{9}
       \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
@@ -3990,8 +4152,8 @@
 \endrefsection
 
 \refsection{6}
-  \datalist[entry]{none/global//global/global}
-    \entry{DBLP:conf/ami/SenBGMGST18}{inproceedings}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:conf/ami/SenBGMGST18}{inproceedings}{}{}
       \name{author}{7}{}{%
         {{hash=fef01384f2a4ceaa034b7d393c8c6f08}{%
            family={Sen},
@@ -4046,13 +4208,16 @@
       }
       \strng{namehash}{cb360693bf2c7bca707fcd3707c96fc6}
       \strng{fullhash}{d4fd06213ee75898b1a34c99a5072de9}
+      \strng{fullhashraw}{d4fd06213ee75898b1a34c99a5072de9}
       \strng{bibnamehash}{d4fd06213ee75898b1a34c99a5072de9}
       \strng{authorbibnamehash}{d4fd06213ee75898b1a34c99a5072de9}
       \strng{authornamehash}{cb360693bf2c7bca707fcd3707c96fc6}
       \strng{authorfullhash}{d4fd06213ee75898b1a34c99a5072de9}
+      \strng{authorfullhashraw}{d4fd06213ee75898b1a34c99a5072de9}
       \strng{editorbibnamehash}{5a029250c08236edff13279f81247eab}
       \strng{editornamehash}{5a029250c08236edff13279f81247eab}
       \strng{editorfullhash}{5a029250c08236edff13279f81247eab}
+      \strng{editorfullhashraw}{5a029250c08236edff13279f81247eab}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -4075,7 +4240,7 @@
       \verb https://doi.org/10.1007/978-3-030-03062-9%5C_9
       \endverb
     \endentry
-    \entry{DBLP:conf/isaim/BringsjordGMS18}{inproceedings}{}
+    \entry{DBLP:conf/isaim/BringsjordGMS18}{inproceedings}{}{}
       \name{author}{4}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -4100,10 +4265,12 @@
       }
       \strng{namehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{fullhash}{392ff9f9e36fe46a87e81ca6531eaa9a}
+      \strng{fullhashraw}{392ff9f9e36fe46a87e81ca6531eaa9a}
       \strng{bibnamehash}{392ff9f9e36fe46a87e81ca6531eaa9a}
       \strng{authorbibnamehash}{392ff9f9e36fe46a87e81ca6531eaa9a}
       \strng{authornamehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{authorfullhash}{392ff9f9e36fe46a87e81ca6531eaa9a}
+      \strng{authorfullhashraw}{392ff9f9e36fe46a87e81ca6531eaa9a}
       \field{extraname}{1}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
@@ -4120,7 +4287,7 @@
       \verb https://isaim2018.cs.ou.edu/papers/ISAIM2018%5C_Ethics%5C_Bringsjord%5C_etal.pdf
       \endverb
     \endentry
-    \entry{DBLP:conf/isaim/GovindarajuluGB18}{inproceedings}{}
+    \entry{DBLP:conf/isaim/GovindarajuluGB18}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=7ddffed1afe6eec305683c0cd819a6ee}{%
            family={Govindarajulu},
@@ -4140,10 +4307,12 @@
       }
       \strng{namehash}{a0333195a6ac735ce784223b6e3cc2db}
       \strng{fullhash}{a0333195a6ac735ce784223b6e3cc2db}
+      \strng{fullhashraw}{a0333195a6ac735ce784223b6e3cc2db}
       \strng{bibnamehash}{a0333195a6ac735ce784223b6e3cc2db}
       \strng{authorbibnamehash}{a0333195a6ac735ce784223b6e3cc2db}
       \strng{authornamehash}{a0333195a6ac735ce784223b6e3cc2db}
       \strng{authorfullhash}{a0333195a6ac735ce784223b6e3cc2db}
+      \strng{authorfullhashraw}{a0333195a6ac735ce784223b6e3cc2db}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -4159,7 +4328,7 @@
       \verb https://isaim2018.cs.ou.edu/papers/ISAIM2018%5C_Ethics%5C_Govindarajulu%5C_etal.pdf
       \endverb
     \endentry
-    \entry{DBLP:journals/corr/abs-1804-03342}{article}{}
+    \entry{DBLP:journals/corr/abs-1804-03342}{article}{}{}
       \name{author}{3}{}{%
         {{hash=19638baf2753f78022e8287de536e995}{%
            family={Angel},
@@ -4179,10 +4348,12 @@
       }
       \strng{namehash}{480f5296c686558754b75e99ee8847f5}
       \strng{fullhash}{480f5296c686558754b75e99ee8847f5}
+      \strng{fullhashraw}{480f5296c686558754b75e99ee8847f5}
       \strng{bibnamehash}{480f5296c686558754b75e99ee8847f5}
       \strng{authorbibnamehash}{480f5296c686558754b75e99ee8847f5}
       \strng{authornamehash}{480f5296c686558754b75e99ee8847f5}
       \strng{authorfullhash}{480f5296c686558754b75e99ee8847f5}
+      \strng{authorfullhashraw}{480f5296c686558754b75e99ee8847f5}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
@@ -4203,7 +4374,7 @@
       \verb http://arxiv.org/abs/1804.03342
       \endverb
     \endentry
-    \entry{DBLP:journals/corr/abs-1805-07797}{article}{}
+    \entry{DBLP:journals/corr/abs-1805-07797}{article}{}{}
       \name{author}{3}{}{%
         {{hash=7ddffed1afe6eec305683c0cd819a6ee}{%
            family={Govindarajulu},
@@ -4223,10 +4394,12 @@
       }
       \strng{namehash}{08d77c308a28ad771879f3ddf7b2e11e}
       \strng{fullhash}{08d77c308a28ad771879f3ddf7b2e11e}
+      \strng{fullhashraw}{08d77c308a28ad771879f3ddf7b2e11e}
       \strng{bibnamehash}{08d77c308a28ad771879f3ddf7b2e11e}
       \strng{authorbibnamehash}{08d77c308a28ad771879f3ddf7b2e11e}
       \strng{authornamehash}{08d77c308a28ad771879f3ddf7b2e11e}
       \strng{authorfullhash}{08d77c308a28ad771879f3ddf7b2e11e}
+      \strng{authorfullhashraw}{08d77c308a28ad771879f3ddf7b2e11e}
       \field{extraname}{1}
       \field{sortinit}{6}
       \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
@@ -4248,7 +4421,7 @@
       \verb http://arxiv.org/abs/1805.07797
       \endverb
     \endentry
-    \entry{DBLP:journals/corr/abs-1810-07007}{article}{}
+    \entry{DBLP:journals/corr/abs-1810-07007}{article}{}{}
       \name{author}{6}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -4283,10 +4456,12 @@
       }
       \strng{namehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{fullhash}{bf8cd56fe175e425054497604e36e0fc}
+      \strng{fullhashraw}{bf8cd56fe175e425054497604e36e0fc}
       \strng{bibnamehash}{bf8cd56fe175e425054497604e36e0fc}
       \strng{authorbibnamehash}{bf8cd56fe175e425054497604e36e0fc}
       \strng{authornamehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{authorfullhash}{bf8cd56fe175e425054497604e36e0fc}
+      \strng{authorfullhashraw}{bf8cd56fe175e425054497604e36e0fc}
       \field{extraname}{2}
       \field{sortinit}{7}
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
@@ -4308,7 +4483,7 @@
       \verb http://arxiv.org/abs/1810.07007
       \endverb
     \endentry
-    \entry{DBLP:journals/corr/abs-1812-03868}{article}{}
+    \entry{DBLP:journals/corr/abs-1812-03868}{article}{}{}
       \name{author}{3}{}{%
         {{hash=7ddffed1afe6eec305683c0cd819a6ee}{%
            family={Govindarajulu},
@@ -4328,10 +4503,12 @@
       }
       \strng{namehash}{08d77c308a28ad771879f3ddf7b2e11e}
       \strng{fullhash}{08d77c308a28ad771879f3ddf7b2e11e}
+      \strng{fullhashraw}{08d77c308a28ad771879f3ddf7b2e11e}
       \strng{bibnamehash}{08d77c308a28ad771879f3ddf7b2e11e}
       \strng{authorbibnamehash}{08d77c308a28ad771879f3ddf7b2e11e}
       \strng{authornamehash}{08d77c308a28ad771879f3ddf7b2e11e}
       \strng{authorfullhash}{08d77c308a28ad771879f3ddf7b2e11e}
+      \strng{authorfullhashraw}{08d77c308a28ad771879f3ddf7b2e11e}
       \field{extraname}{2}
       \field{sortinit}{8}
       \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
@@ -4357,8 +4534,8 @@
 \endrefsection
 
 \refsection{7}
-  \datalist[entry]{none/global//global/global}
-    \entry{DBLP:conf/aaaifs/BelloB17}{inproceedings}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:conf/aaaifs/BelloB17}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{hash=00f0c3b15f5486120590e299e65b7b8a}{%
            family={Bello},
@@ -4376,10 +4553,12 @@
       }
       \strng{namehash}{4a1bfef908b145b61a12d666b0ee47b9}
       \strng{fullhash}{4a1bfef908b145b61a12d666b0ee47b9}
+      \strng{fullhashraw}{4a1bfef908b145b61a12d666b0ee47b9}
       \strng{bibnamehash}{4a1bfef908b145b61a12d666b0ee47b9}
       \strng{authorbibnamehash}{4a1bfef908b145b61a12d666b0ee47b9}
       \strng{authornamehash}{4a1bfef908b145b61a12d666b0ee47b9}
       \strng{authorfullhash}{4a1bfef908b145b61a12d666b0ee47b9}
+      \strng{authorfullhashraw}{4a1bfef908b145b61a12d666b0ee47b9}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -4397,7 +4576,7 @@
       \verb https://aaai.org/ocs/index.php/FSS/FSS17/paper/view/15961
       \endverb
     \endentry
-    \entry{DBLP:conf/ijcai/GovindarajuluB17}{inproceedings}{}
+    \entry{DBLP:conf/ijcai/GovindarajuluB17}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{hash=7ddffed1afe6eec305683c0cd819a6ee}{%
            family={Govindarajulu},
@@ -4422,13 +4601,16 @@
       }
       \strng{namehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{fullhash}{412f9b8d2604794a3df896a7082fd589}
+      \strng{fullhashraw}{412f9b8d2604794a3df896a7082fd589}
       \strng{bibnamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authorbibnamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authornamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authorfullhash}{412f9b8d2604794a3df896a7082fd589}
+      \strng{authorfullhashraw}{412f9b8d2604794a3df896a7082fd589}
       \strng{editorbibnamehash}{0e484848a71bef5dabec91b16e672c20}
       \strng{editornamehash}{0e484848a71bef5dabec91b16e672c20}
       \strng{editorfullhash}{0e484848a71bef5dabec91b16e672c20}
+      \strng{editorfullhashraw}{0e484848a71bef5dabec91b16e672c20}
       \field{extraname}{1}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
@@ -4450,7 +4632,7 @@
       \verb https://doi.org/10.24963/ijcai.2017/658
       \endverb
     \endentry
-    \entry{DBLP:conf/ptai/BringsjordGBH17}{inproceedings}{}
+    \entry{DBLP:conf/ptai/BringsjordGBH17}{inproceedings}{}{}
       \name{author}{4}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -4485,13 +4667,16 @@
       }
       \strng{namehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{fullhash}{01744acfb0d8815170d37e9ec2ae90d6}
+      \strng{fullhashraw}{01744acfb0d8815170d37e9ec2ae90d6}
       \strng{bibnamehash}{01744acfb0d8815170d37e9ec2ae90d6}
       \strng{authorbibnamehash}{01744acfb0d8815170d37e9ec2ae90d6}
       \strng{authornamehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{authorfullhash}{01744acfb0d8815170d37e9ec2ae90d6}
+      \strng{authorfullhashraw}{01744acfb0d8815170d37e9ec2ae90d6}
       \strng{editorbibnamehash}{7345c509be779a76e6da0766d0999b99}
       \strng{editornamehash}{7345c509be779a76e6da0766d0999b99}
       \strng{editorfullhash}{7345c509be779a76e6da0766d0999b99}
+      \strng{editorfullhashraw}{7345c509be779a76e6da0766d0999b99}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -4514,7 +4699,7 @@
       \verb https://doi.org/10.1007/978-3-319-96448-5%5C_14
       \endverb
     \endentry
-    \entry{DBLP:journals/corr/GovindarajuluB17}{article}{}
+    \entry{DBLP:journals/corr/GovindarajuluB17}{article}{}{}
       \name{author}{2}{}{%
         {{hash=7ddffed1afe6eec305683c0cd819a6ee}{%
            family={Govindarajulu},
@@ -4529,10 +4714,12 @@
       }
       \strng{namehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{fullhash}{412f9b8d2604794a3df896a7082fd589}
+      \strng{fullhashraw}{412f9b8d2604794a3df896a7082fd589}
       \strng{bibnamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authorbibnamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authornamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authorfullhash}{412f9b8d2604794a3df896a7082fd589}
+      \strng{authorfullhashraw}{412f9b8d2604794a3df896a7082fd589}
       \field{extraname}{2}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
@@ -4554,7 +4741,7 @@
       \verb http://arxiv.org/abs/1703.08746
       \endverb
     \endentry
-    \entry{DBLP:journals/corr/GovindarajuluB17a}{article}{}
+    \entry{DBLP:journals/corr/GovindarajuluB17a}{article}{}{}
       \name{author}{2}{}{%
         {{hash=7ddffed1afe6eec305683c0cd819a6ee}{%
            family={Govindarajulu},
@@ -4569,10 +4756,12 @@
       }
       \strng{namehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{fullhash}{412f9b8d2604794a3df896a7082fd589}
+      \strng{fullhashraw}{412f9b8d2604794a3df896a7082fd589}
       \strng{bibnamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authorbibnamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authornamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authorfullhash}{412f9b8d2604794a3df896a7082fd589}
+      \strng{authorfullhashraw}{412f9b8d2604794a3df896a7082fd589}
       \field{extraname}{3}
       \field{sortinit}{6}
       \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
@@ -4594,7 +4783,7 @@
       \verb http://arxiv.org/abs/1703.08922
       \endverb
     \endentry
-    \entry{DBLP:journals/corr/GovindarajuluB17b}{article}{}
+    \entry{DBLP:journals/corr/GovindarajuluB17b}{article}{}{}
       \name{author}{2}{}{%
         {{hash=7ddffed1afe6eec305683c0cd819a6ee}{%
            family={Govindarajulu},
@@ -4609,10 +4798,12 @@
       }
       \strng{namehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{fullhash}{412f9b8d2604794a3df896a7082fd589}
+      \strng{fullhashraw}{412f9b8d2604794a3df896a7082fd589}
       \strng{bibnamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authorbibnamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authornamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authorfullhash}{412f9b8d2604794a3df896a7082fd589}
+      \strng{authorfullhashraw}{412f9b8d2604794a3df896a7082fd589}
       \field{extraname}{4}
       \field{sortinit}{7}
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
@@ -4634,7 +4825,7 @@
       \verb http://arxiv.org/abs/1705.10726
       \endverb
     \endentry
-    \entry{DBLP:journals/corr/abs-1709-05958}{article}{}
+    \entry{DBLP:journals/corr/abs-1709-05958}{article}{}{}
       \name{author}{6}{}{%
         {{hash=909a3fc00a6b655da467a973e24c5177}{%
            family={Peveler},
@@ -4669,10 +4860,12 @@
       }
       \strng{namehash}{20d59613ef774848bcc5782355ec7228}
       \strng{fullhash}{883d2396e17642789ff4970f76d39e88}
+      \strng{fullhashraw}{883d2396e17642789ff4970f76d39e88}
       \strng{bibnamehash}{883d2396e17642789ff4970f76d39e88}
       \strng{authorbibnamehash}{883d2396e17642789ff4970f76d39e88}
       \strng{authornamehash}{20d59613ef774848bcc5782355ec7228}
       \strng{authorfullhash}{883d2396e17642789ff4970f76d39e88}
+      \strng{authorfullhashraw}{883d2396e17642789ff4970f76d39e88}
       \field{sortinit}{8}
       \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
@@ -4693,7 +4886,7 @@
       \verb http://arxiv.org/abs/1709.05958
       \endverb
     \endentry
-    \entry{DBLP:journals/corr/abs-1710-04161}{article}{}
+    \entry{DBLP:journals/corr/abs-1710-04161}{article}{}{}
       \name{author}{2}{}{%
         {{hash=7ddffed1afe6eec305683c0cd819a6ee}{%
            family={Govindarajulu},
@@ -4708,10 +4901,12 @@
       }
       \strng{namehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{fullhash}{412f9b8d2604794a3df896a7082fd589}
+      \strng{fullhashraw}{412f9b8d2604794a3df896a7082fd589}
       \strng{bibnamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authorbibnamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authornamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authorfullhash}{412f9b8d2604794a3df896a7082fd589}
+      \strng{authorfullhashraw}{412f9b8d2604794a3df896a7082fd589}
       \field{extraname}{5}
       \field{sortinit}{9}
       \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
@@ -4737,8 +4932,8 @@
 \endrefsection
 
 \refsection{8}
-  \datalist[entry]{none/global//global/global}
-    \entry{DBLP:journals/aai/BringsjordS16}{article}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:journals/aai/BringsjordS16}{article}{}{}
       \name{author}{2}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -4753,10 +4948,12 @@
       }
       \strng{namehash}{9c9a02eed01de2c30f13b9ec96e8b6d8}
       \strng{fullhash}{9c9a02eed01de2c30f13b9ec96e8b6d8}
+      \strng{fullhashraw}{9c9a02eed01de2c30f13b9ec96e8b6d8}
       \strng{bibnamehash}{9c9a02eed01de2c30f13b9ec96e8b6d8}
       \strng{authorbibnamehash}{9c9a02eed01de2c30f13b9ec96e8b6d8}
       \strng{authornamehash}{9c9a02eed01de2c30f13b9ec96e8b6d8}
       \strng{authorfullhash}{9c9a02eed01de2c30f13b9ec96e8b6d8}
+      \strng{authorfullhashraw}{9c9a02eed01de2c30f13b9ec96e8b6d8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -4779,7 +4976,7 @@
       \verb https://doi.org/10.1080/08839514.2016.1229906
       \endverb
     \endentry
-    \entry{DBLP:journals/aim/AhmedBBCHMSS16}{article}{}
+    \entry{DBLP:journals/aim/AhmedBBCHMSS16}{article}{}{}
       \name{author}{9}{}{%
         {{hash=d66079f39de273fb9b54c0445f53d75d}{%
            family={Ahmed},
@@ -4829,10 +5026,12 @@
       }
       \strng{namehash}{eb1dbb665dc3a9d8f659d237e9e8b086}
       \strng{fullhash}{4d6baedafcec3685e3b3aeecfff23f39}
+      \strng{fullhashraw}{4d6baedafcec3685e3b3aeecfff23f39}
       \strng{bibnamehash}{4d6baedafcec3685e3b3aeecfff23f39}
       \strng{authorbibnamehash}{4d6baedafcec3685e3b3aeecfff23f39}
       \strng{authornamehash}{eb1dbb665dc3a9d8f659d237e9e8b086}
       \strng{authorfullhash}{4d6baedafcec3685e3b3aeecfff23f39}
+      \strng{authorfullhashraw}{4d6baedafcec3685e3b3aeecfff23f39}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -4855,7 +5054,7 @@
       \verb https://doi.org/10.1609/aimag.v37i2.2661
       \endverb
     \endentry
-    \entry{DBLP:conf/ecai/BringsjordGP16}{inproceedings}{}
+    \entry{DBLP:conf/ecai/BringsjordGP16}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -4905,13 +5104,16 @@
       }
       \strng{namehash}{3577ef450ed0617fa97308c087c890dd}
       \strng{fullhash}{3577ef450ed0617fa97308c087c890dd}
+      \strng{fullhashraw}{3577ef450ed0617fa97308c087c890dd}
       \strng{bibnamehash}{3577ef450ed0617fa97308c087c890dd}
       \strng{authorbibnamehash}{3577ef450ed0617fa97308c087c890dd}
       \strng{authornamehash}{3577ef450ed0617fa97308c087c890dd}
       \strng{authorfullhash}{3577ef450ed0617fa97308c087c890dd}
+      \strng{authorfullhashraw}{3577ef450ed0617fa97308c087c890dd}
       \strng{editorbibnamehash}{58fc718820a94a4ca34031ba067cba63}
       \strng{editornamehash}{aa4676f24adbdb654542ff5ce3d50d72}
       \strng{editorfullhash}{58fc718820a94a4ca34031ba067cba63}
+      \strng{editorfullhashraw}{58fc718820a94a4ca34031ba067cba63}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -4931,7 +5133,7 @@
       \verb https://ceur-ws.org/Vol-1668/paper7.pdf
       \endverb
     \endentry
-    \entry{DBLP:conf/ijcai/GovindarajuluB16}{inproceedings}{}
+    \entry{DBLP:conf/ijcai/GovindarajuluB16}{inproceedings}{}{}
       \name{author}{2}{}{%
         {{hash=7ddffed1afe6eec305683c0cd819a6ee}{%
            family={Govindarajulu},
@@ -4961,13 +5163,16 @@
       }
       \strng{namehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{fullhash}{412f9b8d2604794a3df896a7082fd589}
+      \strng{fullhashraw}{412f9b8d2604794a3df896a7082fd589}
       \strng{bibnamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authorbibnamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authornamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authorfullhash}{412f9b8d2604794a3df896a7082fd589}
+      \strng{authorfullhashraw}{412f9b8d2604794a3df896a7082fd589}
       \strng{editorbibnamehash}{25afda3fa969f1fcc6b489cca2f6e8b6}
       \strng{editornamehash}{25afda3fa969f1fcc6b489cca2f6e8b6}
       \strng{editorfullhash}{25afda3fa969f1fcc6b489cca2f6e8b6}
+      \strng{editorfullhashraw}{25afda3fa969f1fcc6b489cca2f6e8b6}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
@@ -4991,8 +5196,8 @@
 \endrefsection
 
 \refsection{9}
-  \datalist[entry]{none/global//global/global}
-    \entry{DBLP:journals/synthese/GovindarajauluB15}{article}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:journals/synthese/GovindarajauluB15}{article}{}{}
       \name{author}{3}{}{%
         {{hash=7ddffed1afe6eec305683c0cd819a6ee}{%
            family={Govindarajulu},
@@ -5012,10 +5217,12 @@
       }
       \strng{namehash}{0b35d81a520f008cf5fbaed1584b14a8}
       \strng{fullhash}{0b35d81a520f008cf5fbaed1584b14a8}
+      \strng{fullhashraw}{0b35d81a520f008cf5fbaed1584b14a8}
       \strng{bibnamehash}{0b35d81a520f008cf5fbaed1584b14a8}
       \strng{authorbibnamehash}{0b35d81a520f008cf5fbaed1584b14a8}
       \strng{authornamehash}{0b35d81a520f008cf5fbaed1584b14a8}
       \strng{authorfullhash}{0b35d81a520f008cf5fbaed1584b14a8}
+      \strng{authorfullhashraw}{0b35d81a520f008cf5fbaed1584b14a8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -5038,7 +5245,7 @@
       \verb https://doi.org/10.1007/s11229-014-0424-3
       \endverb
     \endentry
-    \entry{DBLP:conf/aic/LicatoMDSB15}{inproceedings}{}
+    \entry{DBLP:conf/aic/LicatoMDSB15}{inproceedings}{}{}
       \name{author}{5}{}{%
         {{hash=99dc5ee748204de80b7494028bb61bd9}{%
            family={Licato},
@@ -5093,13 +5300,16 @@
       }
       \strng{namehash}{333bdc3aeeff26e5bfd37ac2d8c51e47}
       \strng{fullhash}{4950bb6eb63e758e72bdc0cbc038c7f6}
+      \strng{fullhashraw}{4950bb6eb63e758e72bdc0cbc038c7f6}
       \strng{bibnamehash}{4950bb6eb63e758e72bdc0cbc038c7f6}
       \strng{authorbibnamehash}{4950bb6eb63e758e72bdc0cbc038c7f6}
       \strng{authornamehash}{333bdc3aeeff26e5bfd37ac2d8c51e47}
       \strng{authorfullhash}{4950bb6eb63e758e72bdc0cbc038c7f6}
+      \strng{authorfullhashraw}{4950bb6eb63e758e72bdc0cbc038c7f6}
       \strng{editorbibnamehash}{2d3ad308092833df63b056035c821fe7}
       \strng{editornamehash}{4a9d0d487d20c3082f56d6ec277f4928}
       \strng{editorfullhash}{2d3ad308092833df63b056035c821fe7}
+      \strng{editorfullhashraw}{2d3ad308092833df63b056035c821fe7}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -5119,7 +5329,7 @@
       \verb https://ceur-ws.org/Vol-1510/paper3.pdf
       \endverb
     \endentry
-    \entry{DBLP:conf/ro-man/BringsjordLGGS15}{inproceedings}{}
+    \entry{DBLP:conf/ro-man/BringsjordLGGS15}{inproceedings}{}{}
       \name{author}{5}{}{%
         {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
            family={Bringsjord},
@@ -5152,10 +5362,12 @@
       }
       \strng{namehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{fullhash}{881a8921b1d5a1ae23e17147a45c4164}
+      \strng{fullhashraw}{881a8921b1d5a1ae23e17147a45c4164}
       \strng{bibnamehash}{881a8921b1d5a1ae23e17147a45c4164}
       \strng{authorbibnamehash}{881a8921b1d5a1ae23e17147a45c4164}
       \strng{authornamehash}{9dec9ffc5659820458b502aa4c589681}
       \strng{authorfullhash}{881a8921b1d5a1ae23e17147a45c4164}
+      \strng{authorfullhashraw}{881a8921b1d5a1ae23e17147a45c4164}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -5176,7 +5388,7 @@
       \verb https://doi.org/10.1109/ROMAN.2015.7333698
       \endverb
     \endentry
-    \entry{DBLP:conf/ro-man/BelloLB15}{inproceedings}{}
+    \entry{DBLP:conf/ro-man/BelloLB15}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=00f0c3b15f5486120590e299e65b7b8a}{%
            family={Bello},
@@ -5199,10 +5411,12 @@
       }
       \strng{namehash}{e2a4785ffebc684ddcd96bd326074888}
       \strng{fullhash}{e2a4785ffebc684ddcd96bd326074888}
+      \strng{fullhashraw}{e2a4785ffebc684ddcd96bd326074888}
       \strng{bibnamehash}{e2a4785ffebc684ddcd96bd326074888}
       \strng{authorbibnamehash}{e2a4785ffebc684ddcd96bd326074888}
       \strng{authornamehash}{e2a4785ffebc684ddcd96bd326074888}
       \strng{authorfullhash}{e2a4785ffebc684ddcd96bd326074888}
+      \strng{authorfullhashraw}{e2a4785ffebc684ddcd96bd326074888}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
@@ -5223,7 +5437,7 @@
       \verb https://doi.org/10.1109/ROMAN.2015.7333654
       \endverb
     \endentry
-    \entry{DBLP:conf/springsim/AtkinLB15}{inproceedings}{}
+    \entry{DBLP:conf/springsim/AtkinLB15}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=6b659e46f0018ca9f521a79fd1b2929a}{%
            family={Atkin},
@@ -5258,13 +5472,16 @@
       }
       \strng{namehash}{bfb9e6ae667e8c8a6e35a403510ff334}
       \strng{fullhash}{bfb9e6ae667e8c8a6e35a403510ff334}
+      \strng{fullhashraw}{bfb9e6ae667e8c8a6e35a403510ff334}
       \strng{bibnamehash}{bfb9e6ae667e8c8a6e35a403510ff334}
       \strng{authorbibnamehash}{bfb9e6ae667e8c8a6e35a403510ff334}
       \strng{authornamehash}{bfb9e6ae667e8c8a6e35a403510ff334}
       \strng{authorfullhash}{bfb9e6ae667e8c8a6e35a403510ff334}
+      \strng{authorfullhashraw}{bfb9e6ae667e8c8a6e35a403510ff334}
       \strng{editorbibnamehash}{133b13a30a3e34b3c7c1b1a6f5df100a}
       \strng{editornamehash}{133b13a30a3e34b3c7c1b1a6f5df100a}
       \strng{editorfullhash}{133b13a30a3e34b3c7c1b1a6f5df100a}
+      \strng{editorfullhashraw}{133b13a30a3e34b3c7c1b1a6f5df100a}
       \field{sortinit}{6}
       \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
@@ -5282,7 +5499,7 @@
       \verb http://dl.acm.org/citation.cfm?id=2873016
       \endverb
     \endentry
-    \entry{DBLP:conf/springsim/MartonLB15}{inproceedings}{}
+    \entry{DBLP:conf/springsim/MartonLB15}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=64614ca63ec7c35c82b3af2dee70b319}{%
            family={Marton},
@@ -5332,13 +5549,16 @@
       }
       \strng{namehash}{5702b988c7b295e8c80523635daa2b63}
       \strng{fullhash}{5702b988c7b295e8c80523635daa2b63}
+      \strng{fullhashraw}{5702b988c7b295e8c80523635daa2b63}
       \strng{bibnamehash}{5702b988c7b295e8c80523635daa2b63}
       \strng{authorbibnamehash}{5702b988c7b295e8c80523635daa2b63}
       \strng{authornamehash}{5702b988c7b295e8c80523635daa2b63}
       \strng{authorfullhash}{5702b988c7b295e8c80523635daa2b63}
+      \strng{authorfullhashraw}{5702b988c7b295e8c80523635daa2b63}
       \strng{editorbibnamehash}{5e28dd75ec2c16374b5ce75aef56ee5f}
       \strng{editornamehash}{135d08c3928d41b3b65bbf58ffa06302}
       \strng{editorfullhash}{5e28dd75ec2c16374b5ce75aef56ee5f}
+      \strng{editorfullhashraw}{5e28dd75ec2c16374b5ce75aef56ee5f}
       \field{sortinit}{7}
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
@@ -5356,7 +5576,7 @@
       \verb http://dl.acm.org/citation.cfm?id=2872549
       \endverb
     \endentry
-    \entry{DBLP:series/cogtech/GovindarajuluB15}{incollection}{}
+    \entry{DBLP:series/cogtech/GovindarajuluB15}{incollection}{}{}
       \name{author}{2}{}{%
         {{hash=7ddffed1afe6eec305683c0cd819a6ee}{%
            family={Govindarajulu},
@@ -5381,13 +5601,16 @@
       }
       \strng{namehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{fullhash}{412f9b8d2604794a3df896a7082fd589}
+      \strng{fullhashraw}{412f9b8d2604794a3df896a7082fd589}
       \strng{bibnamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authorbibnamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authornamehash}{412f9b8d2604794a3df896a7082fd589}
       \strng{authorfullhash}{412f9b8d2604794a3df896a7082fd589}
+      \strng{authorfullhashraw}{412f9b8d2604794a3df896a7082fd589}
       \strng{editorbibnamehash}{4ffac92342661e1a6e98125f3bf5ec62}
       \strng{editornamehash}{4ffac92342661e1a6e98125f3bf5ec62}
       \strng{editorfullhash}{4ffac92342661e1a6e98125f3bf5ec62}
+      \strng{editorfullhashraw}{4ffac92342661e1a6e98125f3bf5ec62}
       \field{sortinit}{8}
       \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
