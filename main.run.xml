@@ -79,6 +79,7 @@
       <file>main.bcf</file>
     </requires>
     <requires type="editable">
+      <file>2024.bib</file>
       <file>2023.bib</file>
       <file>2022.bib</file>
       <file>2021.bib</file>

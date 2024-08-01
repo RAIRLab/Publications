@@ -168,8 +168,8 @@ OUTPUT build/publications.aux
 INPUT ./publications.tex
 INPUT ./publications.tex
 INPUT publications.tex
-INPUT build/2023.bib
-INPUT build/2023.bib
+INPUT build/2024.bib
+INPUT build/2024.bib
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/adobe/helvetic/phvr7t.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/adobe/helvetic/phvro7t.tfm
@@ -189,6 +189,8 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/latex/jknapltx/ursfs.fd
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/rsfs/rsfs5.tfm
+INPUT build/2023.bib
+INPUT build/2023.bib
 INPUT build/2022.bib
 INPUT build/2022.bib
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm
