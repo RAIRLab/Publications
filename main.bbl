@@ -91,6 +91,55 @@
       \verb https://doi.org/10.1007/978-3-031-65572-2%5C_15
       \endverb
     \endentry
+    \entry{DBLP:journals/corr/abs-2409-17336}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=b63c225aa1e29c701b15e475e510bb85}{%
+           family={Bridewell},
+           familyi={B\bibinitperiod},
+           given={Will},
+           giveni={W\bibinitperiod}}}%
+        {{hash=00f0c3b15f5486120590e299e65b7b8a}{%
+           family={Bello},
+           familyi={B\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ec754acf9f8ddd49182ab137b5fd0796}{%
+           family={Bringsjord},
+           familyi={B\bibinitperiod},
+           given={Selmer},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{731846fa3cd9db56a13d083b1eeea5e9}
+      \strng{fullhash}{731846fa3cd9db56a13d083b1eeea5e9}
+      \strng{fullhashraw}{731846fa3cd9db56a13d083b1eeea5e9}
+      \strng{bibnamehash}{731846fa3cd9db56a13d083b1eeea5e9}
+      \strng{authorbibnamehash}{731846fa3cd9db56a13d083b1eeea5e9}
+      \strng{authornamehash}{731846fa3cd9db56a13d083b1eeea5e9}
+      \strng{authorfullhash}{731846fa3cd9db56a13d083b1eeea5e9}
+      \strng{authorfullhashraw}{731846fa3cd9db56a13d083b1eeea5e9}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{CoRR}
+      \field{title}{The Technology of Outrage: Bias in Artificial Intelligence}
+      \field{volume}{abs/2409.17336}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.48550/ARXIV.2409.17336
+      \endverb
+      \verb{eprint}
+      \verb 2409.17336
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.48550/arXiv.2409.17336
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.48550/arXiv.2409.17336
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 

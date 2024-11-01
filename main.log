@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.1)  1 OCT 2024 00:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.1)  1 NOV 2024 00:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-08-16>
+L3 programming layer <2024-09-10>
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/size11.clo
@@ -396,7 +396,7 @@ Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-08-16 L3 programming layer (loader) 
+Package: expl3 2024-09-10 L3 programming layer (loader) 
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
@@ -404,7 +404,7 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box52
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2024-08-16 L3 programming layer (loader) 
+(biblatex)             2024-09-10 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
@@ -577,22 +577,22 @@ LaTeX Info: File `2024.bib' already exists on the system.
 
 \blx@maxsegment@1=\count418
 \blx@sectionciteorder@1=\count419
-Package biblatex Info: Reference section=1 on input line 25.
-Package biblatex Info: Setting label 'refsection:1' on input line 25.
+Package biblatex Info: Reference section=1 on input line 42.
+Package biblatex Info: Setting label 'refsection:1' on input line 42.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 27.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 27.
+(Font)              <10.95> on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 27.
+(Font)              <8> on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 27.
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 27
+(Font)              <6> on input line 44.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 44
 .
 (/opt/texlive/texdir/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-Package biblatex Info: Reference section=0 on input line 28.
+Package biblatex Info: Reference section=0 on input line 45.
 
 
 LaTeX Info: File `2023.bib' already exists on the system.
@@ -600,35 +600,35 @@ LaTeX Info: File `2023.bib' already exists on the system.
 
 \blx@maxsegment@2=\count420
 \blx@sectionciteorder@2=\count421
-Package biblatex Info: Reference section=2 on input line 133.
-Package biblatex Info: Setting label 'refsection:2' on input line 133.
+Package biblatex Info: Reference section=2 on input line 150.
+Package biblatex Info: Setting label 'refsection:2' on input line 150.
 
-Overfull \hbox (6.47205pt too wide) in paragraph at lines 135--135
+Overfull \hbox (6.47205pt too wide) in paragraph at lines 152--152
 []\OT1/phv/m/n/10.95 James T. Os-wald and Bran-don Rozek. ``Par-al-lel Ver-i-fi
 -ca-tion of Nat-u-ral De-duc-tion Proof Graphs''.
  []
 
 
-Overfull \hbox (17.05766pt too wide) in paragraph at lines 135--135
+Overfull \hbox (17.05766pt too wide) in paragraph at lines 152--152
 \OT1/phv/m/n/10.95 In: \OT1/phv/m/sl/10.95 Pro-ceed-ings of the 18th In-ter-na-
 tional Work-shop on Log-i-cal Frame-works and Meta-Languages:
  []
 
 
-Overfull \hbox (22.1826pt too wide) in paragraph at lines 135--135
+Overfull \hbox (22.1826pt too wide) in paragraph at lines 152--152
 \OT1/phv/m/sl/10.95 The-ory and Prac-tice, LFMTP@FSCD 2023, Rome, Italy, 2nd Ju
 ly 2023\OT1/phv/m/n/10.95 . Ed. by Al-berto Ciaffaglione
  []
 
-Package biblatex Info: Reference section=0 on input line 136.
+Package biblatex Info: Reference section=0 on input line 153.
 
 LaTeX Info: File `2022.bib' already exists on the system.
             Not generating it from this source.
 
 \blx@maxsegment@3=\count422
 \blx@sectionciteorder@3=\count423
-Package biblatex Info: Reference section=3 on input line 235.
-Package biblatex Info: Setting label 'refsection:3' on input line 235.
+Package biblatex Info: Reference section=3 on input line 252.
+Package biblatex Info: Setting label 'refsection:3' on input line 252.
 
 
 [1{/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texli
@@ -636,7 +636,7 @@ ve/texdir/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
 ]
-Package biblatex Info: Reference section=0 on input line 238.
+Package biblatex Info: Reference section=0 on input line 255.
 
 
 LaTeX Info: File `2021.bib' already exists on the system.
@@ -644,21 +644,21 @@ LaTeX Info: File `2021.bib' already exists on the system.
 
 \blx@maxsegment@4=\count424
 \blx@sectionciteorder@4=\count425
-Package biblatex Info: Reference section=4 on input line 293.
-Package biblatex Info: Setting label 'refsection:4' on input line 293.
-Package biblatex Info: Reference section=0 on input line 296.
+Package biblatex Info: Reference section=4 on input line 310.
+Package biblatex Info: Setting label 'refsection:4' on input line 310.
+Package biblatex Info: Reference section=0 on input line 313.
 
 LaTeX Info: File `2020.bib' already exists on the system.
             Not generating it from this source.
 
 \blx@maxsegment@5=\count426
 \blx@sectionciteorder@5=\count427
-Package biblatex Info: Reference section=5 on input line 400.
-Package biblatex Info: Setting label 'refsection:5' on input line 400.
+Package biblatex Info: Reference section=5 on input line 417.
+Package biblatex Info: Setting label 'refsection:5' on input line 417.
 
 
 [2]
-Package biblatex Info: Reference section=0 on input line 403.
+Package biblatex Info: Reference section=0 on input line 420.
 
 
 LaTeX Info: File `2019.bib' already exists on the system.
@@ -666,10 +666,10 @@ LaTeX Info: File `2019.bib' already exists on the system.
 
 \blx@maxsegment@6=\count428
 \blx@sectionciteorder@6=\count429
-Package biblatex Info: Reference section=6 on input line 580.
-Package biblatex Info: Setting label 'refsection:6' on input line 580.
+Package biblatex Info: Reference section=6 on input line 597.
+Package biblatex Info: Setting label 'refsection:6' on input line 597.
 
-Overfull \hbox (2.80661pt too wide) in paragraph at lines 582--582
+Overfull \hbox (2.80661pt too wide) in paragraph at lines 599--599
 []\OT1/phv/m/n/10.95 Naveen Sun-dar Govin-dara-julu, Jean-Claude Paquin, Shreya
  Baner-jee, Atriya Sen, Paul Mayol,
  []
@@ -677,31 +677,31 @@ Overfull \hbox (2.80661pt too wide) in paragraph at lines 582--582
 
 
 [3]
-Overfull \hbox (3.04709pt too wide) in paragraph at lines 582--582
+Overfull \hbox (3.04709pt too wide) in paragraph at lines 599--599
 []\OT1/phv/m/n/10.95 Naveen Sun-dar Govin-dara-julu, Selmer Bringsjord, and Mat
 thew Peveler. ``On Quan-ti-fied Modal
  []
 
 
-Overfull \hbox (38.61565pt too wide) in paragraph at lines 582--582
+Overfull \hbox (38.61565pt too wide) in paragraph at lines 599--599
 []\OT1/phv/m/n/10.95 Selmer Bringsjord and Naveen Sun-dar Govin-dara-julu. ``Le
 arn-ing Ex Ni-hilo''. In: \OT1/phv/m/sl/10.95 CoRR \OT1/phv/m/n/10.95 abs/1903.
 03515
  []
 
-Package biblatex Info: Reference section=0 on input line 583.
+Package biblatex Info: Reference section=0 on input line 600.
 
 LaTeX Info: File `2018.bib' already exists on the system.
             Not generating it from this source.
 
 \blx@maxsegment@7=\count430
 \blx@sectionciteorder@7=\count431
-Package biblatex Info: Reference section=7 on input line 708.
-Package biblatex Info: Setting label 'refsection:7' on input line 708.
+Package biblatex Info: Reference section=7 on input line 725.
+Package biblatex Info: Setting label 'refsection:7' on input line 725.
 
 
 [4]
-Package biblatex Info: Reference section=0 on input line 711.
+Package biblatex Info: Reference section=0 on input line 728.
 
 
 LaTeX Info: File `2017.bib' already exists on the system.
@@ -709,38 +709,38 @@ LaTeX Info: File `2017.bib' already exists on the system.
 
 \blx@maxsegment@8=\count432
 \blx@sectionciteorder@8=\count433
-Package biblatex Info: Reference section=8 on input line 848.
-Package biblatex Info: Setting label 'refsection:8' on input line 848.
+Package biblatex Info: Reference section=8 on input line 865.
+Package biblatex Info: Setting label 'refsection:8' on input line 865.
 
 
 [5]
-Overfull \hbox (13.77774pt too wide) in paragraph at lines 850--850
+Overfull \hbox (13.77774pt too wide) in paragraph at lines 867--867
 []\OT1/phv/m/n/10.95 Matthew Peveler, Bi-plav Sri-vas-tava, Kar-tik Ta-la-madup
 ula, Naveen Sun-dar G., Selmer Bringsjord,
  []
 
-Package biblatex Info: Reference section=0 on input line 851.
+Package biblatex Info: Reference section=0 on input line 868.
 
 LaTeX Info: File `2016.bib' already exists on the system.
             Not generating it from this source.
 
 \blx@maxsegment@9=\count434
 \blx@sectionciteorder@9=\count435
-Package biblatex Info: Reference section=9 on input line 938.
-Package biblatex Info: Setting label 'refsection:9' on input line 938.
-Package biblatex Info: Reference section=0 on input line 941.
+Package biblatex Info: Reference section=9 on input line 955.
+Package biblatex Info: Setting label 'refsection:9' on input line 955.
+Package biblatex Info: Reference section=0 on input line 958.
 
 LaTeX Info: File `2015.bib' already exists on the system.
             Not generating it from this source.
 
 \blx@maxsegment@10=\count436
 \blx@sectionciteorder@10=\count437
-Package biblatex Info: Reference section=10 on input line 1086.
-Package biblatex Info: Setting label 'refsection:10' on input line 1086.
+Package biblatex Info: Reference section=10 on input line 1103.
+Package biblatex Info: Setting label 'refsection:10' on input line 1103.
 
 
 [6]
-Package biblatex Info: Reference section=0 on input line 1089.
+Package biblatex Info: Reference section=0 on input line 1106.
 
 
 LaTeX Info: File `2014.bib' already exists on the system.
@@ -748,12 +748,12 @@ LaTeX Info: File `2014.bib' already exists on the system.
 
 \blx@maxsegment@11=\count438
 \blx@sectionciteorder@11=\count439
-Package biblatex Info: Reference section=11 on input line 1191.
-Package biblatex Info: Setting label 'refsection:11' on input line 1191.
+Package biblatex Info: Reference section=11 on input line 1208.
+Package biblatex Info: Setting label 'refsection:11' on input line 1208.
 
 
 [7]
-Package biblatex Info: Reference section=0 on input line 1194.
+Package biblatex Info: Reference section=0 on input line 1211.
 
 
 LaTeX Info: File `2013.bib' already exists on the system.
@@ -761,21 +761,21 @@ LaTeX Info: File `2013.bib' already exists on the system.
 
 \blx@maxsegment@12=\count440
 \blx@sectionciteorder@12=\count441
-Package biblatex Info: Reference section=12 on input line 1262.
-Package biblatex Info: Setting label 'refsection:12' on input line 1262.
-Package biblatex Info: Reference section=0 on input line 1265.
+Package biblatex Info: Reference section=12 on input line 1279.
+Package biblatex Info: Setting label 'refsection:12' on input line 1279.
+Package biblatex Info: Reference section=0 on input line 1282.
 
 LaTeX Info: File `2012.bib' already exists on the system.
             Not generating it from this source.
 
 \blx@maxsegment@13=\count442
 \blx@sectionciteorder@13=\count443
-Package biblatex Info: Reference section=13 on input line 1316.
-Package biblatex Info: Setting label 'refsection:13' on input line 1316.
+Package biblatex Info: Reference section=13 on input line 1333.
+Package biblatex Info: Setting label 'refsection:13' on input line 1333.
 
 
 [8]
-Package biblatex Info: Reference section=0 on input line 1319.
+Package biblatex Info: Reference section=0 on input line 1336.
 
 
 LaTeX Info: File `2011.bib' already exists on the system.
@@ -783,36 +783,36 @@ LaTeX Info: File `2011.bib' already exists on the system.
 
 \blx@maxsegment@14=\count444
 \blx@sectionciteorder@14=\count445
-Package biblatex Info: Reference section=14 on input line 1406.
-Package biblatex Info: Setting label 'refsection:14' on input line 1406.
+Package biblatex Info: Reference section=14 on input line 1423.
+Package biblatex Info: Setting label 'refsection:14' on input line 1423.
 
-Overfull \hbox (0.99577pt too wide) in paragraph at lines 1408--1408
+Overfull \hbox (0.99577pt too wide) in paragraph at lines 1425--1425
 []\OT1/phv/m/n/10.95 Selmer Bringsjord and Naveen Sun-dar Govin-dara-julu. ``To
 -ward a Mod-ern Ge-og-ra-phy of Minds,
  []
 
-Package biblatex Info: Reference section=0 on input line 1409.
+Package biblatex Info: Reference section=0 on input line 1426.
 
 LaTeX Info: File `2010.bib' already exists on the system.
             Not generating it from this source.
 
 \blx@maxsegment@15=\count446
 \blx@sectionciteorder@15=\count447
-Package biblatex Info: Reference section=15 on input line 1427.
-Package biblatex Info: Setting label 'refsection:15' on input line 1427.
-Package biblatex Info: Reference section=0 on input line 1430.
+Package biblatex Info: Reference section=15 on input line 1444.
+Package biblatex Info: Setting label 'refsection:15' on input line 1444.
+Package biblatex Info: Reference section=0 on input line 1447.
 
 LaTeX Info: File `2009.bib' already exists on the system.
             Not generating it from this source.
 
 \blx@maxsegment@16=\count448
 \blx@sectionciteorder@16=\count449
-Package biblatex Info: Reference section=16 on input line 1509.
-Package biblatex Info: Setting label 'refsection:16' on input line 1509.
+Package biblatex Info: Reference section=16 on input line 1526.
+Package biblatex Info: Setting label 'refsection:16' on input line 1526.
 
 
 [9]
-Package biblatex Info: Reference section=0 on input line 1512.
+Package biblatex Info: Reference section=0 on input line 1529.
 
 
 LaTeX Info: File `2008.bib' already exists on the system.
@@ -820,36 +820,36 @@ LaTeX Info: File `2008.bib' already exists on the system.
 
 \blx@maxsegment@17=\count450
 \blx@sectionciteorder@17=\count451
-Package biblatex Info: Reference section=17 on input line 1597.
-Package biblatex Info: Setting label 'refsection:17' on input line 1597.
-Package biblatex Info: Reference section=0 on input line 1600.
+Package biblatex Info: Reference section=17 on input line 1614.
+Package biblatex Info: Setting label 'refsection:17' on input line 1614.
+Package biblatex Info: Reference section=0 on input line 1617.
 
 LaTeX Info: File `2007.bib' already exists on the system.
             Not generating it from this source.
 
 \blx@maxsegment@18=\count452
 \blx@sectionciteorder@18=\count453
-Package biblatex Info: Reference section=18 on input line 1722.
-Package biblatex Info: Setting label 'refsection:18' on input line 1722.
+Package biblatex Info: Reference section=18 on input line 1739.
+Package biblatex Info: Setting label 'refsection:18' on input line 1739.
 
 
 [10]
-Overfull \hbox (5.70827pt too wide) in paragraph at lines 1724--1724
+Overfull \hbox (5.70827pt too wide) in paragraph at lines 1741--1741
 []\OT1/phv/m/n/10.95 Selmer Bringsjord, Kon-stan-tine Ark-oudas, Deepa Mukher-j
 ee, An-drew Ed-ward Shill-i-day, Joshua
  []
 
-Package biblatex Info: Reference section=0 on input line 1725.
+Package biblatex Info: Reference section=0 on input line 1742.
 
 LaTeX Info: File `2006.bib' already exists on the system.
             Not generating it from this source.
 
 \blx@maxsegment@19=\count454
 \blx@sectionciteorder@19=\count455
-Package biblatex Info: Reference section=19 on input line 1803.
-Package biblatex Info: Setting label 'refsection:19' on input line 1803.
+Package biblatex Info: Reference section=19 on input line 1820.
+Package biblatex Info: Setting label 'refsection:19' on input line 1820.
 
-Overfull \hbox (0.39743pt too wide) in paragraph at lines 1805--1805
+Overfull \hbox (0.39743pt too wide) in paragraph at lines 1822--1822
 []\OT1/phv/m/n/10.95 Selmer Bringsjord, Kon-stan-tine Ark-oudas, and Paul Bello
 . ``To-ward a Gen-eral Logi-cist Method-
  []
@@ -857,7 +857,7 @@ Overfull \hbox (0.39743pt too wide) in paragraph at lines 1805--1805
 
 
 [11]
-Package biblatex Info: Reference section=0 on input line 1806.
+Package biblatex Info: Reference section=0 on input line 1823.
 
 
 LaTeX Info: File `2004.bib' already exists on the system.
@@ -865,39 +865,39 @@ LaTeX Info: File `2004.bib' already exists on the system.
 
 \blx@maxsegment@20=\count456
 \blx@sectionciteorder@20=\count457
-Package biblatex Info: Reference section=20 on input line 1876.
-Package biblatex Info: Setting label 'refsection:20' on input line 1876.
+Package biblatex Info: Reference section=20 on input line 1893.
+Package biblatex Info: Setting label 'refsection:20' on input line 1893.
 
-Overfull \hbox (9.94139pt too wide) in paragraph at lines 1878--1878
+Overfull \hbox (9.94139pt too wide) in paragraph at lines 1895--1895
 []\OT1/phv/m/n/10.95 Selmer Bringsjord and Kon-stan-tine Ark-oudas. ``The modal
  ar-gu-ment for hy-per-com-put-ing minds''.
  []
 
-Package biblatex Info: Reference section=0 on input line 1879.
+Package biblatex Info: Reference section=0 on input line 1896.
 
 LaTeX Info: File `2003.bib' already exists on the system.
             Not generating it from this source.
 
 \blx@maxsegment@21=\count458
 \blx@sectionciteorder@21=\count459
-Package biblatex Info: Reference section=21 on input line 1915.
-Package biblatex Info: Setting label 'refsection:21' on input line 1915.
-Package biblatex Info: Reference section=0 on input line 1918.
+Package biblatex Info: Reference section=21 on input line 1932.
+Package biblatex Info: Setting label 'refsection:21' on input line 1932.
+Package biblatex Info: Reference section=0 on input line 1935.
 
 LaTeX Info: File `2001.bib' already exists on the system.
             Not generating it from this source.
 
 \blx@maxsegment@22=\count460
 \blx@sectionciteorder@22=\count461
-Package biblatex Info: Reference section=22 on input line 1938.
-Package biblatex Info: Setting label 'refsection:22' on input line 1938.
-Package biblatex Info: Reference section=0 on input line 1941.
+Package biblatex Info: Reference section=22 on input line 1955.
+Package biblatex Info: Setting label 'refsection:22' on input line 1955.
+Package biblatex Info: Reference section=0 on input line 1958.
 )
 
 [12] (build/main.aux (build/publications.aux))
  ***********
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-08-16>
+L3 programming layer <2024-09-10>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -906,10 +906,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17180 strings out of 473579
- 318648 string characters out of 5730247
- 1972957 words of memory out of 5000000
- 39775 multiletter control sequences out of 15000+600000
+ 17185 strings out of 473579
+ 318910 string characters out of 5730246
+ 1149915 words of memory out of 5000000
+ 39779 multiletter control sequences out of 15000+600000
  569705 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,81p,693b,1648s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -918,10 +918,10 @@ t/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></opt/tex
 live/texdir/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></opt/texlive/texdir
 /texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></opt/texlive/texdir/texmf-dist
 /fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on build/main.pdf (12 pages, 114647 bytes).
+Output written on build/main.pdf (12 pages, 115061 bytes).
 PDF statistics:
- 441 PDF objects out of 1000 (max. 8388607)
- 412 compressed objects within 5 object streams
- 127 named destinations out of 1000 (max. 500000)
+ 445 PDF objects out of 1000 (max. 8388607)
+ 416 compressed objects within 5 object streams
+ 128 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
